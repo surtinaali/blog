@@ -23,7 +23,7 @@
                 <ul class="navbar-nav mr-auto">
                     {% assign nav_pages = site.html_pages | sort: 'nav_order' %} {% for nav in nav_pages %} {% if nav.nav_order %}
                     <li class="nav-item">
-                        <a class="nav-link text-uppercase {% if nav.url == page.url %} active {% endif %}" href="{{ site.baseurl }}/{{ nav.url }}">
+                        <a class="nav-link text-uppercase {% if nav.url == page.url %} active {% endif %}" href="{{ site.baseurl }}{{ nav.url }}">
                             <h5>{{ nav.title }}</h5>
                         </a>
                     </li>
