@@ -5,7 +5,7 @@ img_path: assets/img/bismillahirrahmanirrahim.svg
 date: 2018-07-17 02:15:00 +0900
 ---
 {:.text-center #profil}
-![Hallo, saya Said D. Bahta]({{ site.baseurl }}assets/img/profil.jpg){:.rounded-circle .shadow-lg width="200rem"}
+![Hallo, saya Said D. Bahta]({{ site.baseurl }}/assets/img/profil.jpg){:.rounded-circle .shadow-lg width="200rem"}
 #### << SAID BAHTA >> <br>
 {:.text-center}
 
@@ -13,9 +13,9 @@ date: 2018-07-17 02:15:00 +0900
 hubungi saya
 
 {:.text-center}
-[![E-Mail me]({{ site.baseurl }}assets/img/email.svg){:width="35rem"}](mailto:{{site.email}}) = 
-[![Add Me]({{ site.baseurl }}assets/img/facebook.svg){:width="35rem"}]({{ site.fb }}){:target="new"} =
-[![My. Project]({{ site.baseurl }}assets/img/github.svg){:width="35rem"}]({{ site.github }}){:target="new"}
+[![E-Mail me]({{ site.baseurl }}/assets/img/email.svg){:width="35rem"}](mailto:{{site.email}}) = 
+[![Add Me]({{ site.baseurl }}/assets/img/facebook.svg){:width="35rem"}]({{ site.fb }}){:target="new"} =
+[![My. Project]({{ site.baseurl }}/assets/img/github.svg){:width="35rem"}]({{ site.github }}){:target="new"}
 {:.text-center}
 
 
