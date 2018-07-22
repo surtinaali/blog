@@ -1,0 +1,19 @@
+--- 
+title: Beranda
+layout: page
+nav_order: 1
+---
+<div class="card-columns text-center">
+    {% for post in site.posts %}
+    <div class="card border-0 shadow" style="width: 18rem;">
+        <img class="card-img-top rounded-0" src="{{post.img_path}}" alt="Card image cap">
+        <div class="card-header border-bottom-0 py-2 bg-dark text-light">
+            {{ post.title }}
+        </div>
+        <div class="card-body p-2">
+            <a href="{{ post.url }}" class="text-dark" style="text-decoration:none">{{ post.excerpt }}</a>
+        </div>
+    </div>
+    <p></p>
+    {% endfor %}
+</div>

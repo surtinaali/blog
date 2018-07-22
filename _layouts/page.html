@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{ site.title }} - {{page.title}}</title>
+    <link rel="stylesheet" href="{{site.baseurl}}assets/style/css/bootstrap.min.css">
+</head>
+
+<body>
+    <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark pt-3">
+        <div class="container">
+            <a class="navbar-brand pt-0" href="{{site.baseurl}}about">
+                <h3>[{{ site.title }}]</h3>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    {% assign nav_pages = site.html_pages | sort: 'nav_order' %} {% for nav in nav_pages %} {% if nav.nav_order %}
+                    <li class="nav-item">
+                        <a class="nav-link text-uppercase {% if nav.url == page.url %} active {% endif %}" href="{{ nav.url }}">
+                            <h5>{{ nav.title }}</h5>
+                        </a>
+                    </li>
+                    {% endif %} {% endfor %}
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="card rounded-0 border-top-0">
+            <div class="card-body">
+
+                {{ content }}
+
+            </div>
+            <div class="card-footer text-light bg-secondary">Powered By. Jekyll, Bootstrap & GitHub</div>
+        </div>
+    </div>
+    <script src="{{site.baseurl}}assets/style/js/jquery-3.3.1.min.js"></script>
+    <script src="{{site.baseurl}}assets/style/js/popper.min.js"></script>
+    <script src="{{site.baseurl}}assets/style/js/bootstrap.min.js"></script>
+</body>
+
+</html>
