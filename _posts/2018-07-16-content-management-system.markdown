@@ -11,11 +11,11 @@ Izinkan penulis memulai tulisan ini dengan sedikit bercerita tentang sejarah per
 {:#apa}
 ##### Apa itu CMS
 
-CMS adalah sebuah sistem yang dibangun dengan tujuan mempermudah penggunanya dalam membuat, menyunting, mengorganisasi, dan menerbitkan konten blog tanpa harus memikirkan kode atau bahasa pemprograman yang seharusnya digunakan dalam pembuatan konten. 
+CMS adalah sistem yang dibangun dengan tujuan mempermudah penggunanya dalam membuat, menyunting, mengorganisasi dan menerbitkan konten tanpa harus memikirkan kode atau bahasa pemprograman yang seharusnya digunakan dalam pembuatan konten. CMS merupakan sebutan umum untuk sistem atau aplikasi web yang dibuat oleh pengembang dengan pendekatan yang berbeda-beda antara masing-masing CMS. _Wordpress_, _Joomla_ dan _Drupal_ misalnya, ketiganya memiliki fungsi utama yang sama namun berbeda dari cara penggunaan dan pengembangannya. 
 
-Kemudahan tersebut bukan hanya pada konten, tahapan instalasi, menentukan tampilan, membalas komentar pembaca dan memantau status peringkat terbitan juga dapat dilakukan dengan mudah, tinggal klik dan klik pada antar muka CMS atau yang lebih dikenal dengan sebutan _dashboard_.
+Kemudahan CMS bukan hanya pada pembuatan konten. Proses instalasi CMS, menentukan tampilan, membalas komentar dan memantau status peringkat terbitan dan fitur-fitur yang lain juga dapat dilakukan dengan mudah, tinggal klik dan klik  dalam antar muka CMS yang sudah tersedia yang lebih dikenal dengan sebutan _dashboard_.
 
-Content Management System adalah sebuah cara agar pemilik web-blog lebih fokus dalam membuat konten web-blog yang menarik. CMS bahkan disebut-sebut sebagai salah satu strategi marketing di perusahaan-perusahaan untuk memperkenalkan produk mereka lebih cepat kepada calon konsumen. 
+Khusus untuk blog, salah satu tujuan dari Content Management System adalah agar pemilik web-blog dapat lebih fokus dalam membuat konten blog.  
 
 {:#komponen}
 ##### Komponen CMS
@@ -40,7 +40,7 @@ Segala sesuatu pasti punya kelebihan dan kekurangannya masing-masing, begitu pul
 | Mudah | Tidak perlu mengetahui bahasa web, cukup gunakan tema yang telah disediakan |
 | Konten duluan | Karena kemudahan diatas, pengguna bisa lebih fokus pada konten | 
 | Pemantauan content | Mudah mengetahui artikel yang paling banyak dikunjungi dan dikomentari | 
-| Interaktif | Jika ada komentar dari pembaca, komentar dapat langsung langsung dibalas melalui dashboard |
+| Interaktif | Jika ada komentar dari pembaca, komentar dapat langsung dibalas melalui dashboard |
  
 {:.table .table-striped}
 | Kekurangan |  Alasan  |
