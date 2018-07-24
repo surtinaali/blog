@@ -19,13 +19,15 @@ hubungi saya
 {:.text-center}
 
 
-Penulis adalah seorang dosen, nama lengkap SAID D. BAHTA. Mengajar di salah satu sekolah tinggi ilmu komputer di Maluku Utara. Aktifitas keseharian penulis selain mengajar, mendesain dan menulis di blog ini adalah belajar membuat sesuatu yang bisa bermanfaat untuk pribadi dan orang lain.
+Nama lengkap penulis SAID D. BAHTA. Penulis berprofesi sebagai seorang dosen yang mengajar di salah satu sekolah tinggi ilmu komputer di propinsi Maluku Utara. Harapan penulis dengan membuat blog ini adalah semoga tulisan-tulisan penulis bisa menjadi referensi dan membantu pembaca dalam mempelajari web dengan mudah. 
 
 ##### Ketertarikan
-Penulis senang mempelajari __Front End Design__ dan __Web Programming__ secara umum. Rencananya, blog ini akan penulis gunakan sebagai tempat dokumentasi pengalaman penulis dalam mempelajari hal-hal baru berhubungan dengan kedua topik tersebut.
+Penulis senang mempelajari tentang Web Development. Keseharian penulis selain mengajar dan menulis adalah, belajar mendesain menggunakan AI, HTML, CSS dan JavaScript Framework. Sampai saat halaman ini ditulis, penulis masih fokus mempelajari tentang __Frontend Development__ berharap bisa secepatnya beralih ke __Backend Development__. 
+
+Rencananya, blog ini akan penulis gunakan sebagai tempat dokumentasi pengalaman penulis dalam mempelajari hal-hal baru berhubungan dengan Web Development.
 
 ##### Pengalaman
-MENGAJAR : mengajarkan Desain Grafis, Front End Design dan Pengamanan Sistem Komputer yang juga membahas tentang pengamanan web <br>
+MENGAJAR : mengajar Desain Grafis, Front End Design dan Pengamanan Sistem Komputer yang juga membahas tentang pengamanan web <br>
 CODING : mempelajari coding secara otodidak sejak 2008. Skill coding yang di miliki ["HTML, CSS, mengerti JavaScript, mengerti PHP, mengerti Java, mengerti Sql"]<br>
 WEBSITE : pernah menggunakan Wordpress, Joomla, Drupal dan Jekyll
 
