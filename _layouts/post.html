@@ -15,9 +15,9 @@ layout: page
 </div>
 {{ content }}
 
-{% if page.comments == true %}
+{% if site.comments == true %}
 
-TEST
+{% include disqus.html %}
 
 {% endif %}
 </div>

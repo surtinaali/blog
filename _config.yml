@@ -48,6 +48,6 @@ markdown: kramdown
 
 permalink: "pretty"
 
-active: livereload 
+active: livereload
 
-comments: true
+comments: true 
