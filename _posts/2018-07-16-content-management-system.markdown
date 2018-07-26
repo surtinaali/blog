@@ -3,7 +3,7 @@ layout: post
 title: "Content Management System (CMS)"
 date: 2018-07-16 02:19:00 +0900
 categories: Web
-img_path: assets/img/post/130718.svg
+img_path: assets/img/post/160718.svg
 ---
 
 Izinkan penulis memulai tulisan ini dengan sedikit bercerita tentang sejarah perkenalan penulis dengan __CMS (Content Management System)__. Penulis mulai mengenal CMS sejak tahun 2008, saat itu penulis tidak mengenalnya dengan sebutan CMS, yang penulis kenal adalah __Wordpress__, __Joomla__, __Drupal__ dan __Blogger__. _Wordpress_, _Joomla_, _Drupal_ dan _Blogger_ sebenarnya merupakan contoh dari CMS (Content Management System). Lalu apa itu CMS?

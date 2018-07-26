@@ -3,7 +3,7 @@ layout: post
 title: "Web Statis VS Web Dinamis"
 date: 2018-07-19 02:17:00 +0900
 categories: Web
-img_path: assets/img/post/130718.svg
+img_path: assets/img/post/180719.svg
 ---
 
 Static web lebih dikenal di awal era perkembangan internet. Pada era itu, Tim Berners Lee sebagai penggagas teknologi web membuat web server dan web browser yang hanya mampu merespon request dan menampilkan web statis (static web), dengan bahasa yang digunakan adalah HTML. 
