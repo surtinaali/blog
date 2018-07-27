@@ -4,21 +4,14 @@ layout: page
 ---
 <div class="row">
     <div class="col-lg-8 mx-auto">
-<div class="text-center">
-    <p></p>
-<h4>{{ page.title }}</h4>
-<div class="text-muted">
-<small>Ditulis pada</small><h5>{{ page.date | date_to_string }}</h5>
-<hr>
-</div>
-<p></p>
-</div>
-{{ content }}
-
-{% if site.comments == true %}
-
-{% include disqus.html %}
-
-{% endif %}
-</div>
+        <div class="text-center">
+            <p></p>
+            <h4 class="font-weight-bold">{{ page.title }}</h4>
+            <div class="text-muted">
+                <h6 class="font-weight-light">Ditulis pada, {{ page.date | date_to_long_string }}</h6>
+                <p></p>
+            </div>
+        </div>
+        {{ content }} {% if site.comments == true %} {% include disqus.html %} {% endif %}
+    </div>
 </div>
