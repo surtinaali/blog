@@ -3,12 +3,12 @@ title: Kategori
 layout: page
 nav_order: 2
 ---
-<div class="card border-0">
+<div class="card border-0 font-weight-light">
     {% for category in site.categories %}
     <div class="card rounded-0">
-        <div class="card-header pb-0 pt-auto">
+        <div id="{{category_name}}" class="card-header pb-0 pt-auto">
             {% assign category_name = category[0] %}
-            <h5 class="card-title">{{ category_name | upcase }}</h5>
+            <h5 class="card-title"><i class="fa fa-folder-open-o" aria-hidden="true"></i> {{ category_name | upcase }}</h5>
         </div>
         <div class="card-body">
             <p class="card-text">

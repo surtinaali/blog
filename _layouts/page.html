@@ -7,13 +7,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ site.title }} - {{page.title}}</title>
     <link rel="stylesheet" href="{{site.baseurl}}/assets/style/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/font-awesome-4.7.0/css/font-awesome.min.css">
 </head>
 
 <body style="background:#e6e6e6">
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark pt-3">
         <div class="container">
             <a class="navbar-brand pt-0" href="{{site.baseurl}}/about">
-                <h3>[{{ site.title }}]</h3>
+                <h3><i class="fa fa-angle-double-left" aria-hidden="true"></i> {{ site.title }} <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                </h3>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                 aria-expanded="false" aria-label="Toggle navigation">
