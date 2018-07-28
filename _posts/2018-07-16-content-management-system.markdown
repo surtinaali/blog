@@ -9,7 +9,7 @@ img_path: assets/img/post/160718.svg
 Izinkan penulis memulai tulisan ini dengan sedikit bercerita tentang sejarah perkenalan penulis dengan __CMS (Content Management System)__. Penulis mulai mengenal CMS sejak tahun 2008, saat itu penulis tidak mengenalnya dengan sebutan CMS, yang penulis kenal adalah __Wordpress__, __Joomla__, __Drupal__ dan __Blogger__. _Wordpress_, _Joomla_, _Drupal_ dan _Blogger_ sebenarnya merupakan contoh dari CMS (Content Management System). Lalu apa itu CMS?
 
 {:#apa}
-###### Apa itu CMS
+##### Apa itu CMS
 
 CMS adalah sistem yang dibangun dengan tujuan mempermudah penggunanya dalam membuat, menyunting, mengorganisasi dan menerbitkan konten tanpa harus memikirkan kode atau bahasa pemprograman yang seharusnya digunakan dalam pembuatan konten. CMS merupakan sebutan umum untuk sistem atau aplikasi web yang dibuat oleh pengembang dengan pendekatan yang berbeda-beda antara masing-masing CMS. _Wordpress_, _Joomla_ dan _Drupal_ misalnya, ketiganya memiliki fungsi utama yang sama namun berbeda dari cara penggunaan dan pengembangannya. 
 
@@ -18,7 +18,7 @@ Kemudahan CMS bukan hanya pada pembuatan konten. Proses instalasi CMS, menentuka
 Khusus untuk blog, salah satu tujuan dari Content Management System adalah agar pemilik web-blog dapat lebih fokus dalam membuat konten blog.  
 
 {:#komponen}
-###### Komponen CMS
+##### Komponen CMS
 
 Pada umumnya CMS dibangun menggunakan bahasa pemprograman web, ditambah dengan sistem basis data sebagai tempat penyimpanan konten, juga HTML, CSS dan JavaScript sebagai bahasa antar muka yang mengatur tampilan dan tata letak kontent.
 
@@ -30,7 +30,7 @@ Jadi, bisa dikatakan komponen dari CMS terdiri dari :
 Fungsi dari masing-masing komponen CMS adalah, misalnya ketika seorang pengguna internet mengakses sebuah web. Pada saat pengguna melakukan request, PHP di sisi server akan meminta data dari sistem basis data untuk menyiapkan informasi yang akan ditampilkan pada halaman web, selanjutnya dengan layout yang telah dibuat menggunakan HTML, CSS dan JavaScript halaman web tersebut di browser. 
 
 {:#kelebihan}
-###### Kelebihan dan kekurangan CMS
+##### Kelebihan dan kekurangan CMS
 
 Segala sesuatu pasti punya kelebihan dan kekurangannya masing-masing, begitu pula dengan CMS. Dibawah ini adalah beberapa kelebihan dan kekurangan CMS menurut pendapat penulis. _Jika ternyata penulis keliru dengan pendapat dibawah ini, mohon untuk dikomentari._
 
@@ -49,7 +49,7 @@ Segala sesuatu pasti punya kelebihan dan kekurangannya masing-masing, begitu pul
 | Membosankan | Memiringkan tulisan, masukkan gambar, buat kutipan semuanya harus klik | 
 
 {:#ingin}
-###### Lebih dari sekedar CMS
+##### Lebih dari sekedar CMS
 
 Sebagai seorang pengguna CMS, tidak ada salahnya jika anda membuat dan mengatur tata letak tampilan web-blog anda sendiri tanpa menggunakan tema. Buat yang ingin mempelajari dan membuat sendiri tampilan web-blognya dari awal, dibawah ini adalah beberapa kemampuan yang harus dimiliki sebelum belajar membuat tampilan dan tata-letak CMS. 
 
@@ -58,6 +58,6 @@ Sebagai seorang pengguna CMS, tidak ada salahnya jika anda membuat dan mengatur 
 3. Dasar bahasa PHP _[umumnya CMS ditulis menggunakan PHP]_
 
 {:#kesimpulan}
-###### Kesimpulan 
+##### Kesimpulan 
 
 CMS bisa digunakan untuk membuat website atau blog. Salah satu hal yang perlu diperhatikan dalam membuat wesite atau blog adalah perhatikan kontennya. Tampilan yang kurang baik mungkin tidak akan terlalu menarik untuk dikunjungi tapi masih bisa memberi manfaat. Berbeda dengan tampilan yang bagus tapi kontennya itu-itu saja atau jelek, sudah pasti tidak akan dikunjungi karena tidak ada yang bisa didapat selain melihat tampilan.
