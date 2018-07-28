@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Statis VS Web Dinamis"
+title: "Web statis VS Web dinamis"
 date: 2018-07-19 02:17:00 +0900
 categories: Web
 img_path: assets/img/post/180719.svg

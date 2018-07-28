@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Content Management System (CMS)"
+title: "Content management system (CMS)"
 date: 2018-07-16 02:19:00 +0900
 categories: Web
 img_path: assets/img/post/160718.svg
