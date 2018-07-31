@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/icon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{site.baseurl}}/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{site.baseurl}}/icon/favicon-16x16.png">
+    <link rel="manifest" href="{{site.baseurl}}/icon/site.webmanifest">
+    <link rel="mask-icon" href="{{site.baseurl}}/icon/safari-pinned-tab.svg" color="#5bbad5">
+
+    <title>{{ site.title }} - {{page.title}}</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/style/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body style="background:#e6e6e6">
+    <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark pb-0">
+        <div class="container">
+            <a class="navbar-brand pt-0" href="{{site.baseurl}}/about">
+                <h4 class="mt-1"><i class="fa fa-angle-double-left" aria-hidden="true"></i> {{ site.title }} <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                </h4>
+            </a>
+            <button class="navbar-toggler" style="margin-top:-2%" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    {% assign nav_pages = site.html_pages | sort: 'nav_order' %} {% for nav in nav_pages %} {% if nav.nav_order %}
+                    <li class="nav-item">
+                        <a class="nav-link text-uppercase {% if nav.url == page.url %} active {% endif %}" href="{{ site.baseurl }}{{ nav.url }}">
+                            <h5>{{ nav.title }}</h5>
+                        </a>
+                    </li>
+                    {% endif %} {% endfor %}
+                </ul>
+                <form class="form-inline" style="padding-bottom: 1%">
+                    <input class="form-control mr-sm-2" type="search" placeholder="ingin temukan sesuatu" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">temukan</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="card rounded-0 border-top-0">
+            <div class="card-body">
+
+                {{ content }}
+
+            </div>
+            <div class="card-footer text-light bg-dark">Powered By. Jekyll, Bootstrap & GitHub</div>
+        </div>
+    </div>
+    <script src="{{site.baseurl}}/assets/style/js/jquery-3.3.1.min.js"></script>
+    <script src="{{site.baseurl}}/assets/style/js/popper.min.js"></script>
+    <script src="{{site.baseurl}}/assets/style/js/bootstrap.min.js"></script>
+</body>
+
+</html>
