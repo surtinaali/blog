@@ -6,7 +6,7 @@ categories: Web
 img_path: assets/img/post/180719.svg
 ---
 
-Static web lebih dikenal di awal era perkembangan internet. Pada era itu, Tim Berners Lee sebagai penggagas teknologi web membuat web server dan web browser yang hanya mampu merespon request dan menampilkan web statis (static web), dengan bahasa yang digunakan adalah HTML. 
+Static web lebih dikenal di awal era perkembangan WEB. Pada era itu, Tim Berners Lee sebagai penggagas teknologi web membuat web server dan web browser yang hanya mampu merespon request dan menampilkan web statis (static web), dengan bahasa yang digunakan adalah HTML. 
 
 Istilah web statis mengarah pada bagaimana web ditampilkan dibrowser. Jika web tersebut ditampilkan dibrowser sebagaimana failnya yang tersimpan di hardisk, maka bisa dikatakan web tersebut merupakan web statis. Berbeda dengan web dinamis, yang sebagian informasi yang ditampilkan merupakan hasil query dari sistem basis data. 
 
