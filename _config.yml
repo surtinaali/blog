@@ -51,3 +51,7 @@ permalink: "pretty"
 active: livereload
 
 comments: true 
+
+collections:
+  buku:
+    output: true
