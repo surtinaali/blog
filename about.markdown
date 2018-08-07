@@ -18,19 +18,32 @@ hubungi saya
 [![My. Project]({{ site.baseurl }}/assets/img/github.svg){:width="35rem"}]({{ site.github }}){:target="new"}
 {:.text-center}
 
+#### Pekerjaan 
+Saat ini saya mengajar di salah satu sekolah tinggi ilmu komputer di propinsi Maluku Utara. Selain mengajar, saya juga bekerja diwaktu luang dengan mendesain, membuat website dan membuat program.
 
-Nama lengkap penulis SAID D. BAHTA. Penulis berprofesi sebagai seorang dosen yang mengajar di salah satu sekolah tinggi ilmu komputer di propinsi Maluku Utara. Harapan penulis dengan membuat blog ini adalah semoga tulisan-tulisan penulis bisa menjadi referensi dan membantu pembaca dalam mempelajari web dengan mudah. 
+#### Ketertarikan
+Penulis senang mempelajari tentang teknologi Web. 
 
-##### Ketertarikan
-Penulis senang mempelajari tentang Web Development. Keseharian penulis selain mengajar dan menulis adalah, belajar mendesain menggunakan AI, HTML, CSS dan JavaScript Framework. Sampai saat halaman ini ditulis, penulis masih fokus mempelajari tentang __Frontend Development__ berharap bisa secepatnya beralih ke __Backend Development__. 
+#### Pengalaman
+<table>
+    <tr>
+        <td valign="top">MENGAJAR </td>
+        <td valign="top" width="2%" align="center">:</td>
+        <td><i>Desain Grafis</i>, <i>Frontend Design</i>, <i>Pengamanan Sistem Komputer</i>, <i>Jaringan Komputer</i> dan <i>Sistem Operasi</i></td>
+        <tr>
+            <td valign="top">CODING </td>
+            <td valign="top" width="2%" align="center">:</td>
+            <td>HTML, CSS, JavaScript, PHP, Java, Sql</td>
+        </tr>
+        <tr>
+            <td valign="top">WEBSITE </td>
+            <td valign="top" width="2%" align="center">:</td>
+            <td>Wordpress, Joomla, Drupal dan Jekyll</td>
+        </tr>
+    </tr>
+</table>
 
-Rencananya, blog ini akan penulis gunakan sebagai tempat dokumentasi pengalaman penulis dalam mempelajari hal-hal baru berhubungan dengan Web Development.
-
-##### Pengalaman
-MENGAJAR : mengajar Desain Grafis, Front End Design dan Pengamanan Sistem Komputer yang juga membahas tentang pengamanan web <br>
-CODING : mempelajari coding secara otodidak sejak 2008. Skill coding yang di miliki ["HTML, CSS, mengerti JavaScript, mengerti PHP, mengerti Java, mengerti Sql"]<br>
-WEBSITE : pernah menggunakan Wordpress, Joomla, Drupal dan Jekyll
-
-##### Pendidikan 
+#### Pendidikan 
+{: .mt-3}
 [2013] lulus gelar sarjana<br>
 [2018] lulus gelar magister 
