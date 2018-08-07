@@ -19,17 +19,17 @@ hubungi saya
 {:.text-center}
 
 #### Pekerjaan 
-Saat ini saya mengajar di salah satu sekolah tinggi ilmu komputer di propinsi Maluku Utara. Selain mengajar, saya juga bekerja diwaktu luang dengan mendesain, membuat website dan membuat program.
+Saat ini saya mengajar di salah satu sekolah tinggi ilmu komputer di propinsi Maluku Utara. Selain mengajar, saya juga bekerja sebagai desainer grafis, membuat website dan membuat aplikasi.
 
 #### Ketertarikan
-Penulis senang mempelajari tentang teknologi Web. 
+Saya senang mempelajari _Teknologi Web_, _Sistem Operasi_, _Jaringan_ dan _Pengamanan Komputer_. 
 
 #### Pengalaman
 <table>
     <tr>
         <td valign="top">MENGAJAR </td>
         <td valign="top" width="2%" align="center">:</td>
-        <td><i>Desain Grafis</i>, <i>Frontend Design</i>, <i>Pengamanan Sistem Komputer</i>, <i>Jaringan Komputer</i> dan <i>Sistem Operasi</i></td>
+        <td>Desain Grafis, Frontend Design, Pengamanan Sistem Komputer, Jaringan Komputer danSistem Operasi</td>
         <tr>
             <td valign="top">CODING </td>
             <td valign="top" width="2%" align="center">:</td>
@@ -45,5 +45,8 @@ Penulis senang mempelajari tentang teknologi Web.
 
 #### Pendidikan 
 {: .mt-3}
-[2013] lulus gelar sarjana<br>
-[2018] lulus gelar magister 
+<!-- [1996 - 2002] SD Inpres 1 Payahe <br>
+[2002 - 2005] SMP Negeri 1 Oba <br> -->
+[2005 - 2008] SMA Negeri 1 Ternate <br>
+[2008 - 2013] Program S1 STMIK Handayani Makassar <br>
+[2014 - 2018] Program S2 STMIK Handayani Makassar <br>
