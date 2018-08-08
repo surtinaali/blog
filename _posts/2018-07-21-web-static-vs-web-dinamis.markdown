@@ -27,6 +27,8 @@ Pada umumnya web statis dibangun diatas bahasa standar web :
 - JavaScript 
 
 Contoh kode web statis :
+{:.my-1}
+
 {% highlight html %}<head>
     <title>
         "Nama Website"
@@ -41,7 +43,7 @@ Contoh kode web statis :
 3. Informasi tersebut kemudian disatukan dengan template dan dikirim ke browser untuk ditampilkan 
 
 Pembuatan web dinamis biasanya menggunakan bahasa pemprograman : 
-{:.m-0}
+{:.my-1}
 - JavaScript 
 - PHP (Hypertext Preprocessor)
 - RubyOnRails
@@ -51,7 +53,7 @@ Pembuatan web dinamis biasanya menggunakan bahasa pemprograman :
 - Sql (Structured Query Language)
 
 Contoh kode web dinamis : 
-{:.my-2}
+{:.my-1}
 
 {% highlight php %}<head>
     <title>
