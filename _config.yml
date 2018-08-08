@@ -29,6 +29,7 @@ github_username:  saidbahta
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 # theme: minima
 # plugins:
@@ -46,7 +47,8 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
-permalink: "pretty"
+
+permalink: pretty
 
 active: livereload
 
