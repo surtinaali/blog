@@ -10,7 +10,7 @@ Sebagai tulisan pertama, saya ingin mengucapkan selamat datang. Blog ini merupak
 
 Blog ini dikelola secara mandiri oleh saya "SAID D. BAHTA". Seorang ~~bukan~~ programmer yang senang mempelajari dan mengajarkan teknologi Web. 
 
-Ide blog ini sebenarnya telah lama penulis pikirkan, namun karena keterbatasan pengetahuan dan waktu, maka blog ini baru bisa penulis wujudkan [tepatnya di bulan Februari 2018].  
+Ide blog ini sebenarnya telah lama saya pikirkan, namun karena keterbatasan pengetahuan dan waktu, blog ini baru bisa penulis terbitkan [tepatnya di bulan Februari 2018].  
 
 Rencananya blog ini akan lebih banyak saya gunakan untuk membahas tentang __Web Development__. Buat kamu yang juga senang dengan web, kamu bisa jadikan blog ini sebagai salah satu tempat untuk berdiskusi, bertanya, atau sekedar sharing pengetahuan.  
 
