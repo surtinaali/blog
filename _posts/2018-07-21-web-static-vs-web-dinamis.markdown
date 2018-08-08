@@ -6,15 +6,15 @@ categories: Web
 img_path: assets/img/post/180719.svg
 ---
 
-Static web atau web statis lebih dikenal di awal era perkembangan WEB. Tim Berners Lee sebagai penggagas teknologi web pada awalnya membuat web server dan web browser yang hanya mampu mengelola text. 
+Static web atau web statis lebih dikenal di awal era perkembangan WEB. Tim Berners Lee sebagai penggagas teknologi web pada awalnya membuat web server dan web browser hanya mampu mengelola text. 
 
 Teknologi web tersebut dikenal dengan nama HTTP (Hypertext Transfer Protocol) yang sampai sekarang masih tetap digunakan,  namun sudah dengan berbagai pengembangan sehingga tidak hanya teks, gambar dan suara juga dapat ditampilkan.
 
 Perbedaan antara web statis dan web dinamis sebenarnya bukan dilihat dari HTTP-nya, namun pada konten yang ditampilkan di browser.  
 
-Jika web tersebut ditampilkan dibrowser sebagaimana failnya yang tersimpan di hardisk, maka bisa dikatakan web tersebut merupakan web statis. 
+Jika web tersebut ditampilkan dibrowser sebagaimana failnya yang tersimpan di hardisk, maka bisa dikatakan web tersebut merupakan web statis. Tampilan halaman web statis tidak akan berubah kecuali perubahan dilakukan secara manual pada failnya. 
 
-Berbeda dengan web dinamis, karena sebagian informasi yang ditampilkan diweb tersebut merupakan hasil query atau diambil dari sistem basis data.
+Berbeda dengan web statis, halaman yang ditampilkan oleh web dinamis merupakan hasil query dari sistem basis data. Disebut dinamis karena tampilan web bisa saja berubah berdasarkan kondisi-kondisi tertentu.
 
 ##### Cara kerja Web Statis
 1. Melalui browser, user mengakses alamat URL web untuk melakukan request ke server
@@ -38,8 +38,8 @@ Contoh kode web statis :
 
 ##### Cara kerja Web Dinamis
 1. Melalui browser, user mengakses alamat URL web untuk melakukan request ke server 
-2. Setelah web server menerima Request. Aplikasi web yang tersimpan di server akan mengakses sistem basis data dan mengambil informasi yang akan ditampilkan
-3. Informasi kemudian disatukan dengan template dan dikirim ke browser untuk ditampilkan 
+2. Setelah web server menerima Request. Fail yang tersimpan di server berupa program web akan mengakses sistem basis data dan mengambil informasi yang akan ditampilkan
+3. Informasi tersebut kemudian disatukan dengan template dan dikirim ke browser untuk ditampilkan 
 
 Pembuatan web dinamis biasanya menggunakan bahasa pemprograman : 
 {:.m-0}
@@ -59,3 +59,8 @@ Contoh kode web dinamis :
     </title>
 </head>
 {% endhighlight %}
+
+##### Daftar Pustaka 
+[1. Comparison of Static and Dynamic Websites](https://www.webnots.com/comparison-of-static-and-dynamic-website/){:target="new"}<br>
+[2. Static VS Dynamic Website](https://www.javatpoint.com/website-static-vs-dynamic){:target="new"}<br>
+[](){:target="new"}
