@@ -6,7 +6,7 @@ categories: Web
 img_path: assets/img/post/160718.svg
 ---
 
-Izinkan penulis memulai tulisan ini dengan sedikit bercerita tentang sejarah perkenalan penulis dengan __CMS (Content Management System)__. Penulis mulai mengenal CMS sejak tahun 2008, saat itu penulis tidak mengenalnya dengan sebutan CMS, yang penulis kenal adalah __Wordpress__, __Joomla__, __Drupal__ dan __Blogger__. _Wordpress_, _Joomla_, _Drupal_ dan _Blogger_ sebenarnya merupakan contoh dari CMS (Content Management System). Lalu apa itu CMS?
+Izinkan saya memulai tulisan ini dengan sedikit bercerita tentang sejarah perkenalan saya dengan __CMS (Content Management System)__. Saya mulai mengenal CMS sejak tahun 2008, saat itu saya tidak mengenalnya dengan sebutan CMS, yang saya kenal adalah __Wordpress__, __Joomla__, __Drupal__ dan __Blogger__. _Wordpress_, _Joomla_, _Drupal_ dan _Blogger_ sebenarnya merupakan contoh dari CMS (Content Management System). Lalu apa itu CMS?
 
 {:#apa}
 ##### Apa itu CMS
@@ -32,7 +32,7 @@ Fungsi dari masing-masing komponen CMS adalah, misalnya ketika seorang pengguna 
 {:#kelebihan}
 ##### Kelebihan dan kekurangan CMS
 
-Segala sesuatu pasti punya kelebihan dan kekurangannya masing-masing, begitu pula dengan CMS. Dibawah ini adalah beberapa kelebihan dan kekurangan CMS menurut pendapat penulis. _Jika ternyata penulis keliru dengan pendapat dibawah ini, mohon untuk dikomentari._
+Segala sesuatu pasti punya kelebihan dan kekurangannya masing-masing, begitu pula dengan CMS. Dibawah ini adalah beberapa kelebihan dan kekurangan CMS menurut pendapat saya. _Jika ternyata saya keliru dengan pendapat dibawah ini, mohon untuk dikomentari._
 
 {:.table .table-striped}
 | Kelebihan | Alasan |
