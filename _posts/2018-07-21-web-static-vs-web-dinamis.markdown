@@ -21,13 +21,13 @@ Berbeda dengan web statis, halaman yang ditampilkan oleh web dinamis merupakan h
 2. Setelah web server menerima Request. Web server langsung mengakses fail statis web di storage dan dikirim ke browser untuk ditampilkan
 
 Pada umumnya web statis dibangun diatas bahasa standar web : 
-{:.my-1}
+
 - HTML (HyperText Markup Language)
 - CSS (Cascading Style Sheets)
 - JavaScript 
 
 Contoh kode web statis :
-{:.my-1}
+
 
 {% highlight HTML %}<head>
     <title>
@@ -43,7 +43,7 @@ Contoh kode web statis :
 3. Informasi tersebut kemudian disatukan dengan template dan dikirim ke browser untuk ditampilkan 
 
 Pembuatan web dinamis biasanya menggunakan bahasa pemprograman : 
-{:.my-1}
+
 - JavaScript 
 - PHP (Hypertext Preprocessor)
 - RubyOnRails
@@ -53,7 +53,7 @@ Pembuatan web dinamis biasanya menggunakan bahasa pemprograman :
 - Sql (Structured Query Language)
 
 Contoh kode web dinamis : 
-{:.my-1}
+
 
 {% highlight PHP %}<head>
     <title>

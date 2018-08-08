@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Instalasi Rouge untuk Highligter Jekyll "
+title: "Instalasi Rouge Highligter untuk Jekyll "
 date: 2018-08-08 10:47:00 +0900
 categories: Jekyll
 img_path: assets/img/post/080818.svg
@@ -9,7 +9,7 @@ img_path: assets/img/post/080818.svg
 Rouge highlighter merupakan pewarna potongan kode program bawaan jekyll yang mengenali kurang lebih 135 bahasa komputer. Tulisan ini merupakan dokumentasi bagaimana cara menginstal, mengkonfigurasi dan menggunakan rouge highlighter.   
 
 _coba perhatikan potongan kode program dibawah ini. Tanpa rouge highlighter_ : 
-{:.my-1}
+
 <pre>
 statusApp() {
 	if [[ $APP_STATUS = 1 ]]; then 
@@ -19,9 +19,11 @@ statusApp() {
 	fi
 }
 </pre>
+{:.highlight}
 
-_bedakan dengan yang menggunakan rouge highlighter_ : 
-{:.my-1}
+
+_bedakan dengan yang sudah menggunakan rouge highlighter_ : 
+
 {% highlight BASH %}
 statusApp() {
 	if [[ $APP_STATUS = 1 ]]; then 
@@ -32,18 +34,21 @@ statusApp() {
 }
 {% endhighlight %}
 
-Selain potongan kode program terlihat lebih indah dengan warna, tujuan lain dari menggunakan kode higlighter adalah untuk kemudahan dalam mengidetifikasi bagian-bagian program seperti _function_, _variabel_, _kondisi_ dan _data_.     
+Selain karena potongan kode program terlihat lebih indah dengan warna, menggunakan kode higlighter juga berfungsi untuk kemudahan dalam mengidetifikasi bagian-bagian program seperti _function_, _variabel_, _kondisi_ dan _data_.     
 
 ##### Instalasi rouge 
 Instalasi dilakukan melalui _command line interface_, dengan menggunakan perintah :  
-{:.my-1}
+
 {% highlight POWERSHELL %}
 gem install rouge 
 {% endhighlight %}
 
+_\* karena rouge merupakan bawaan jekyll, maka langkah instalasi ini bisa di lewatkan_
+{:.text-secondary}
+
 ##### Konfigurasi
 Ubah konfigurasi yang ada pada fail `_config.yml` dengan menambahkan baris berikut : 
-{:.my-1}
+
 {% highlight YAML %}
 highlighter: rouge
 {% endhighlight %}
@@ -51,7 +56,7 @@ highlighter: rouge
 Setelah `highlighter: rouge` ditambahkan, langkah selanjutnya adalah memilih tema atau style rouge sesuai dengan yang diinginkan. 
 
 Untuk melihat daftar tema atau style rouge yang tersedia gunakan perintah : 
-{:.my-1}
+
 {% highlight POWERSHELL %}
 rougify help style
 {% endhighlight %}
@@ -59,20 +64,20 @@ rougify help style
 `tema yang tersedia : base16, base16.dark, base16.light, base16.monokai, base16.monokai.dark, base16.monokai.light, base16.solarized, base16.solarized.dark, base16.solarized.light, colorful, github, gruvbox, gruvbox.dark, gruvbox.light, igorpro, molokai, monokai, monokai.sublime, pastie, thankful_eyes, tulip`
 
 Pilih salah satu tema yang tersedia kemudian konfersi menjadi fail css ke dalam folder asset.  
-{:.my-1}
+
 {% highlight POWERSHELL %}
 rougify style pastie > assets/css/syntax.css
 {% endhighlight %}
 
 Setelah fail css dari tema rouge dikonfersi, tambahkan tema tersebut ke dalam kode html diantara tag `<head>` dan `</head>`. 
-{:.my-1}
+
 {% highlight HTML %}
 <link rel="stylesheet" href="{{site.baseurl}}/assets/style/css/syntax.css">
 {% endhighlight %}
 
 ##### Menggunakan rouge 
 Untuk menggunakan rouge highlitter tulisan code, seperti contoh kode berikut :
-{:.my-1}
+
 
 {% highlight LIQUID %}
 {% raw %}
