@@ -2,7 +2,7 @@
 layout: post
 title: "Instalasi Rouge untuk Highligter Jekyll "
 date: 2018-08-08 10:47:00 +0900
-categories: Jekyll
+categories: Jekyll Web
 img_path: assets/img/post/080818.svg
 ---
 
