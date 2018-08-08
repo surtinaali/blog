@@ -8,6 +8,8 @@ img_path: assets/img/post/080818.svg
 
 Rouge highlighter merupakan pewarna potongan kode program bawaan jekyll yang mengenali kurang lebih 135 bahasa komputer. Tulisan ini merupakan dokumentasi bagaimana cara menginstal, mengkonfigurasi dan menggunakan rouge highlighter.   
 
+Apa itu highligter? 
+
 _coba perhatikan potongan kode program dibawah ini. Tanpa rouge highlighter_ : 
 
 <pre>
@@ -34,7 +36,7 @@ statusApp() {
 }
 {% endhighlight %}
 
-Selain karena potongan kode program terlihat lebih indah dengan warna, menggunakan kode higlighter juga berfungsi untuk kemudahan dalam mengidetifikasi bagian-bagian program seperti _function_, _variabel_, _kondisi_ dan _data_.     
+selain karena potongan kode program terlihat lebih indah dengan warna, menggunakan kode higlighter juga berfungsi untuk kemudahan dalam mengidetifikasi bagian-bagian program seperti _function_, _variabel_, _kondisi_ dan _data_.     
 
 ##### Instalasi rouge 
 Instalasi dilakukan melalui _command line interface_, dengan menggunakan perintah :  
