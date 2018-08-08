@@ -2,7 +2,7 @@
 layout: post
 title: "Selamat datang"
 date: 2018-07-13 10:35:02 +0900
-categories: Umum
+categories: Catatan
 img_path: assets/img/post/130718.svg
 ---
 

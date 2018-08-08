@@ -2,7 +2,7 @@
 layout: post
 title: "Content management system (CMS)"
 date: 2018-07-16 02:19:00 +0900
-categories: Web
+categories: Tinjauan
 img_path: assets/img/post/160718.svg
 ---
 
