@@ -45,7 +45,7 @@ Halo, nama saya
 [2014 - 2018]  Program S2 STMIK Handayani Makassar <br>
 
 #### Pekerjaan
-Saat ini saya mengajar di salah satu Sekolah Tinggi Ilmu Komputer di propinsi Maluku Utara. Selain mengajar, saya juga bekerja sebagai desainer grafis, membuat website dan membuat aplikasi.
+Saat ini saya mengajar di salah satu Sekolah Tinggi Ilmu Komputer di propinsi Maluku Utara.<br> Selain mengajar, saya juga bekerja sebagai desainer grafis, membuat website dan membuat aplikasi.
 
 #### Ketertarikan
 Tertarik mempelajari hal-hal baru berhubungan dengan ilmu komputer, khususnya di bidang Web Development dan Design. 
