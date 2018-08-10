@@ -36,7 +36,7 @@ statusApp() {
 }
 {% endhighlight %}
 
-selain karena kode program terlihat lebih indah dengan warna, menggunakan kode higlighter juga berfungsi untuk kemudahan dalam mengidetifikasi bagian-bagian program seperti _function_, _variabel_, _kondisi_ dan _data_.     
+selain karena kode program terlihat lebih indah dengan warna, menggunakan kode higlighter juga berfungsi untuk kemudahan dalam mengidetifikasi bagian-bagian kode program.     
 
 ##### Instalasi rouge 
 Instalasi dilakukan melalui _command line interface_, dengan menggunakan perintah :  
