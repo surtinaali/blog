@@ -16,7 +16,7 @@ Jika web tersebut ditampilkan dibrowser sebagaimana failnya yang tersimpan di ha
 
 Berbeda dengan web statis, halaman yang ditampilkan oleh web dinamis merupakan hasil query dari sistem basis data. Disebut dinamis karena tampilan web bisa saja berubah berdasarkan kondisi-kondisi tertentu.
 
-##### Cara kerja Web Statis
+#### Cara kerja Web Statis
 1. Melalui browser, user mengakses alamat URL web untuk melakukan request ke server
 2. Setelah web server menerima Request. Web server langsung mengakses fail statis web di storage dan dikirim ke browser untuk ditampilkan
 
@@ -37,7 +37,7 @@ Contoh kode web statis :
 {% endhighlight %} 
 
 
-##### Cara kerja Web Dinamis
+#### Cara kerja Web Dinamis
 1. Melalui browser, user mengakses alamat URL web untuk melakukan request ke server 
 2. Setelah web server menerima Request. Fail yang tersimpan di server berupa program web akan mengakses sistem basis data dan mengambil informasi yang akan ditampilkan
 3. Informasi tersebut kemudian disatukan dengan template dan dikirim ke browser untuk ditampilkan 
@@ -62,7 +62,7 @@ Contoh kode web dinamis :
 </head>
 {% endhighlight %}
 
-##### Daftar Pustaka 
+#### Daftar Pustaka 
 [1. Comparison of Static and Dynamic Websites](https://www.webnots.com/comparison-of-static-and-dynamic-website/){:target="new"}<br>
 [2. Static VS Dynamic Website](https://www.javatpoint.com/website-static-vs-dynamic){:target="new"}<br>
 [](){:target="new"}

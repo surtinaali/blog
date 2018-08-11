@@ -38,7 +38,7 @@ statusApp() {
 
 selain karena kode program terlihat lebih indah dengan warna, menggunakan kode higlighter juga berfungsi untuk kemudahan dalam mengidetifikasi bagian-bagian kode program.     
 
-##### Instalasi rouge 
+#### Instalasi rouge 
 Instalasi dilakukan melalui _command line interface_, dengan menggunakan perintah :  
 
 {% highlight POWERSHELL %}
@@ -48,7 +48,7 @@ gem install rouge
 _\* karena rouge merupakan bawaan jekyll, maka langkah instalasi ini bisa di lewatkan_
 {:.text-secondary}
 
-##### Konfigurasi
+#### Konfigurasi
 Ubah konfigurasi yang ada pada fail `_config.yml` dengan menambahkan baris berikut : 
 
 {% highlight YAML %}
@@ -77,7 +77,7 @@ Setelah fail css dari tema rouge dikonfersi, tambahkan tema tersebut ke dalam ko
 <link rel="stylesheet" href="{{site.baseurl}}/assets/style/css/syntax.css">
 {% endhighlight %}
 
-##### Menggunakan rouge 
+#### Menggunakan rouge 
 Untuk menggunakan rouge highlitter dalam menulis potongan kode gunakan `{% highlight HTML %}` dan akhiri dengan `{% endhighlight %}`, seperti contoh berikut :
 
 
@@ -89,7 +89,7 @@ Untuk menggunakan rouge highlitter dalam menulis potongan kode gunakan `{% highl
 {% endraw %}
 {% endhighlight %}
 
-##### Daftar Pustaka 
+#### Daftar Pustaka 
 [1. Jekyllrb](https://jekyllrb.com/docs/templates/#code-snippet-highlighting){:target="new"}<br>
 [2. Syntax Highlighting in Jekyll With Rouge](https://sacha.me/articles/jekyll-rouge/){:target="new"}<br>
 [3. Add Syntax Highlighting to your Jekyll site with Rouge](https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html){:target="new"}<br>
