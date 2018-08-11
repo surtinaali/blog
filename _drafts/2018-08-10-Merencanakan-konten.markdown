@@ -92,5 +92,8 @@ Sekurang-kurangnya anda telah memiliki pengetahuan tentang HTML dan CSS
 
 
 
+Belajar dan membuat dokumentasi. 
+
+
 
 Saya hanya akan menulis tentang hal-hal baru yang sementara saya pelajari. 
