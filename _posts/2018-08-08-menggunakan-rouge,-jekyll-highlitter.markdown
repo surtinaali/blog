@@ -78,7 +78,7 @@ Setelah fail css dari tema rouge dikonfersi, tambahkan tema tersebut ke dalam ko
 {% endhighlight %}
 
 #### Menggunakan rouge 
-Untuk menggunakan rouge highlitter dalam menulis potongan kode gunakan `{% highlight HTML %}` dan akhiri dengan `{% endhighlight %}`, seperti contoh berikut :
+Untuk menggunakan rouge highlitter dalam menulis potongan kode gunakan `{% raw %}{% highlight HTML %}{% endraw %}` dan akhiri dengan `{% endhighlight %}`, seperti contoh berikut :
 
 
 {% highlight LIQUID %}
