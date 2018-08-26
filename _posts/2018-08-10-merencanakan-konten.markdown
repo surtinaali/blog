@@ -12,7 +12,7 @@ Konten blog yang ingin saya buat adalah Web Development, namun dengan mengetahui
 
 Luasnya pembahasan mengenai Web Development membuat saya terpaksa menguraikannya terlebih dahulu. Tujuanya untuk memperjelas perspektif dengan menentukan jenis artikel, menentukan kategori artikel dan membuat kerangka tulisan yang sesuai dengan konten.
 
-#### Menentukan Jenis tulisan 
+#### Menentukan jenis tulisan 
 
 Web Development dapat diuraikan menjadi dua sub topik, Front end development dan Back end development. 
 
@@ -32,17 +32,13 @@ Cara yang kedua, saya bisa gunakan sub topik dari Web Development, yaitu front e
 2. Artikel-artikel yang saya tulis tidak akan terorganisir dengan baik karena bercampur baur antara banyak bahasa.
 3. Blog saya akan kelihatan seperti tidak punya tema bahasan. 
 
-Sebagai solusi, saat ini saya menggunakan cara ketiga. Nama kategori ditentukan berdasarkan tahapan dalam pengembangan web. Jadi, bahasa web seperti HTML, CSS dan JavaScript akan digabungkan ke dalam satu kategori yaitu "Dasar dan layout web". PHP, Framework, Jekyll dan teknologi web lainnya akan dipisah sesuai dengan namanya sendiri. 
-
-
-Cara yang ketiga ini adalah menentukan nama kategori berdasarkan tahapan pengembangan web, biasanya seorang web developer memulai dengan membuat layout menggunakan HTML, CSS dan jQuery sebagai maket.  Kategori untuk tulisan yang berhubungan dengan layout akan saya beri nama Layout.
-##### Jenis Tulisan 
-
-Dokumentasi : tulisan jenis dokumentasi ini memuat tentang potongan-potongan kode program yang di dokumentasikan sebagai arsip. Potongan kode juga bisa berupa perintah command line. Hal ini perlu saya lakukan untuk mempermudah pada saat dibutuhkan nanti.
-
-Tinjauan : tulisan jenis tinjauan merupakan rangkuman-rangkuman dari artikel dan buku yang saya baca. Saya perlu menuliskannya untuk mengumpulkan ide dan gagasan.
-
-Catatan : tulisan jenis ini lebih bersifat penyampaian dari saya pribadi, layaknya tulisan.
-
+Sebagai solusi, saat ini saya menggunakan cara ketiga. Nama kategori ditentukan berdasarkan tahapan dalam pengembangan web. Jadi, bahasa web seperti HTML, CSS dan JavaScript akan digabungkan ke dalam satu kategori yaitu "Pemula". PHP, Web Framework, Jekyll dan teknologi web lainnya akan dipisah sesuai dengan namanya sendiri. 
 
 ##### Kesimpulan 
+
+Sebagai kesimpulan, dalam blog ini terdapat tiga jenis tulisan : 
+1. Dokumentasi - tulisan jenis dokumentasi ini memuat tentang potongan-potongan kode program yang di dokumentasikan sebagai arsip. Potongan kode juga bisa berupa perintah command line. Hal ini perlu saya lakukan untuk mempermudah pada saat dibutuhkan nanti.
+2. Tinjauan - tulisan jenis tinjauan merupakan rangkuman-rangkuman dari artikel dan buku yang saya baca. Saya perlu menuliskannya untuk mengumpulkan ide dan gagasan.
+3. Catatan - tulisan jenis ini lebih bersifat penyampaian dari saya pribadi, layaknya tulisan.
+
+Khusus untuk jenis tulisan dokumentasi dan tinjauan, akan dikategorikan berdasarkan berdasarkan tahapan pengembangan web, HTML, CSS dan JavaScript akan digabung dalam kategori "Pemula". PHP, Web Framework dan teknologi web lainnya akan diberikan nama kategori berdasarkan nama teknologinya. 
