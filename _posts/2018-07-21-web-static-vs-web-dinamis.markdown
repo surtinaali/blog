@@ -2,7 +2,7 @@
 layout: post
 title: "Perbedaan web statis dan web dinamis"
 date: 2018-07-19 02:17:00 +0900
-categories: Dokumentasi
+categories: pemula
 img_path: assets/img/post/180719.svg
 ---
 
