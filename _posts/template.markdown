@@ -6,6 +6,10 @@ categories: Catatan, Dokumentasi, Tinjauan
 img_path: assets/img/post/noimage.svg
 ---
 
+1. Tulis nama font yang digunakan 
+2. Tulis kode HEXA dari warna yang digunakan 
+3.   
+
 
 ##### Daftar Pustaka 
 [](){:target="new"}<br>

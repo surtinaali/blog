@@ -3,7 +3,7 @@ layout: post
 title: "Selamat datang !!!"
 date: 2018-07-13 10:35:02 +0900
 categories: catatan
-img_path: assets/img/post/130718.svg
+img_path: assets/img/post/180713.svg
 ---
 
 Sebagai tulisan pertama, saya ingin mengucapkan selamat datang. Blog ini merupakan blog yang berisi _dokumentasi_, _tinjauan_, _ringkasan_ dan _jenis tulisan lain_. 
