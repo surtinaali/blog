@@ -3,7 +3,7 @@ layout: post
 title: "Instalasi Rouge Highligter untuk Jekyll "
 date: 2018-08-08 10:47:00 +0900
 categories: jekyll
-img_path: assets/img/post/080818.svg
+img_path: assets/img/post/180808b.svg
 ---
 
 Rouge highlighter merupakan pewarna kode program bawaan jekyll yang mengenali kurang lebih 135 bahasa komputer. Tulisan ini merupakan dokumentasi bagaimana cara menginstal, mengkonfigurasi dan menggunakan rouge highlighter.   
