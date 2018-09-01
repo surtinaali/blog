@@ -16,6 +16,8 @@ Cara pandang bahwa desain adalah gambar ternyata berdampak pada pola pikir saya 
 
 Pada akhirnya, hasil tidak sesuai dengan tujuan.
 
+LALU APA ITU DESAIN ?
+
 Desain adalah proses pencarian solusi dari sebuah masalah dengan cara berpikir, mempertanyakan, menguji kesimpulan dan terus mengembangkan ide dan gagasan untuk medapatkan solusi baru yang sesuai dengan tujuan desain. 
 
 Desain bisa dilakukan oleh siapa saja dan dalam lingkup apa saja dengan memperhatikan prinsip-prinsip desain. 
