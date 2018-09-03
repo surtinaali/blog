@@ -2,7 +2,16 @@
 <html lang="id">
 
 <head>
-    <script src="{{site.baseurl}}/assets/style/js/gtag.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125086490-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-125086490-1');
+    </script>
+
     <title>{{ site.title }} - {{page.title}}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,16 +34,18 @@
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark p-2">
         <div class="container">
             <a class="navbar-brand" href="{{site.baseurl}}/about">
-                <h4><i class="fa fa-angle-double-left" aria-hidden="true"></i> {{ site.title }} <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                <h4><i class="fa fa-angle-double-left" aria-hidden="true"></i> {{ site.title }} <i class="fa fa-angle-double-right"
+                        aria-hidden="true"></i>
                 </h4>
             </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto mt-1">
-                    {% assign nav_pages = site.html_pages | sort: 'nav_order' %} {% for nav in nav_pages %} {% if nav.nav_order %}
+                    {% assign nav_pages = site.html_pages | sort: 'nav_order' %} {% for nav in nav_pages %} {% if
+                    nav.nav_order %}
                     <li class="nav-item">
                         <a class="nav-link text-uppercase {% if nav.url == page.url %} active {% endif %}" href="{{ site.baseurl }}{{ nav.url }}">
                             <h5>{{ nav.title }}</h5>
@@ -43,7 +54,8 @@
                     {% endif %} {% endfor %}
                 </ul>
                 <form class="form-inline">
-                    <input class="form-control mr-sm-2 rounded-0" type="search" placeholder="ingin temukan sesuatu" aria-label="Search">
+                    <input class="form-control mr-sm-2 rounded-0" type="search" placeholder="ingin temukan sesuatu"
+                        aria-label="Search">
                     <button class="btn btn-light my-2 my-sm-0" type="submit">temukan</button>
                 </form>
             </div>
