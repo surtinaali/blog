@@ -9,3 +9,9 @@ Dengan pandangan tersebut, yang terlintas dipikiran saya pada saat mendengar kat
 
 3. sederhanakan penggunaan kata 
 "Memperbaiki tulisan dengan menggunakan bahasa yang sederhana dan mudah dimengerti" menjadi "Memperbaiki tulisan dengan menggunakan bahasa sederhana yang mudah dimengerti"
+
+4. tak perlu diulang
+"Dulunya ketika <del>saya</del> mendengar kata pergerakan, yang terlintas dipikiran saya adalah sosial, agama, politik dan budaya.
+
+5. pendek lebih mudah dipahami daripada panjang, tidak perlu tambahkan kalimat yang tidak perlu
+<del>Teknologi yang siap digunakan oleh banyak orang, ketika</del> dalam tahap pengembangan (dibuat), membutuhkan orang-orang <del>yang bekerja</del> dengan keahliannya masing-masing. Beberapa keahlian yang saya ketahui seperti sistem analis, desainer, programmer, network enginer dan masih banyak lagi keahlian lain.
