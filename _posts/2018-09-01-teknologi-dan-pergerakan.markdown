@@ -34,4 +34,4 @@ Catatan ini menjadi pengingat buat saya, semoga juga buat anda, bahwa pergerakan
 
 Untuk hidup yang lebih baik. 
 
-Beri komentar jika anda punya pendapat lain. 
+Beri komentar jika anda punya pendapat lain.
