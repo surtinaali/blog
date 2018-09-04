@@ -67,9 +67,8 @@ Halo, nama saya
 	</tr>
 </table>
 
-{: .pt-3}
+{: .pt-4}
 ##### PENDIDIKAN
-{: .mt-3}
 <table>
 		<tr>
 			<td valign="top" width="105px">[1996 - 2002]</td>
@@ -98,8 +97,7 @@ Halo, nama saya
 			</tr>
 	</table>
 
-
-{: .pt-3}
+{: .pt-4}
 ##### PEKERJAAN
 Saat ini saya mengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_, tepatnya di propinsi Maluku Utara. Saya juga bekerja sebagai desainer grafis, membuat website dan aplikasi web.
 
