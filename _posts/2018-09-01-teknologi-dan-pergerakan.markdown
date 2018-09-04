@@ -28,7 +28,7 @@ Misi google untuk ketersediaan informasi yang bisa diakses secara universal, ter
 
 Untuk itulah mengapa kita harus peduli. Teknologi dibangun dengan tujuan yang baik. Jika ada dampak negatif yang ditimbulkan teknologi, itu karena kita salah menggunakan teknologi. 
 
-Kita seharusnya lebih selektif ketika ingin menggunakan teknologi. Sesuaikan dengan kebutuhan dan jangan ikuti iklan. Teknologi hanyalah alat dalam menjalani hidup, buka gaya hidup. 
+Kita seharusnya lebih selektif ketika ingin menggunakan sebuah teknologi baru. Sesuaikan dengan kebutuhan dan jangan ikuti iklan. Teknologi hanyalah alat dalam menjalani hidup, buka gaya hidup. 
 
 Catatan ini menjadi pengingat buat saya, semoga juga buat anda, bahwa pergerakan masih terus berjalan. 
 
