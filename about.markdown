@@ -12,17 +12,48 @@ Halo, nama saya
 #### << SAID BAHTA >>
 {:.text-center}
 
-[![E-Mail me]({{ site.baseurl }}/assets/img/email.svg){:width="35rem"}](mailto:{{site.email}}) - 
-[![Add Me]({{ site.baseurl }}/assets/img/facebook.svg){:width="35rem"}]({{ site.fb }}){:target="new"} -
-[![My. Project]({{ site.baseurl }}/assets/img/github.svg){:width="35rem"}]({{ site.github }}){:target="new"}
-{:.text-center}
+[<i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>]({{ site.fb }}){:target="new"} &nbsp; [<i class="fa fa-envelope fa-2x" aria-hidden="true" ></i>](mailto:{{site.email}}) &nbsp; [<i class="fa fa-github-square fa-2x" aria-hidden="true"></i>]({{ site.github }}){:target="new"}
+{:.text-center text-primary}
 
-#### Pengalaman
+<style>
+#pengalaman::before {
+	font-family: "FontAwesome";
+	font-weight: 900;
+	content: "\f046";
+	margin-left: -34px;
+	padding-right: 14px;
+	align-content: center;
+}
+#pendidikan::before {
+	font-family: "FontAwesome";
+	font-weight: 900;
+	content: "\f19d";
+	margin-left: -38px;
+	padding-right: 10px;
+}
+#pekerjaan::before {
+	font-family: "FontAwesome";
+	font-weight: 900;
+	content: "\f2b5";
+	margin-left: -38px;
+	padding-right: 10px;
+}
+#ketertarikan::before {
+	font-family: "FontAwesome";
+	font-weight: 900;
+	content: "\f004";
+	margin-left: -35px;
+	padding-right: 14px;
+}
+</style>
+
+{: .pt-3}
+##### PENGALAMAN 
 <table>
     <tr>
         <td valign="top" width="105px">MENGAJAR </td>
         <td valign="top" width="15px" align="center">:</td>
-        <td>Frontend design, Sistem operasi, Jaringan komputer dan Pengamanan sistem komputer</td>
+        <td>Frontend design, sistem operasi, jaringan komputer dan pengamanan sistem komputer</td>
         <tr>
             <td valign="top">CODING </td>
             <td valign="top" align="center">:</td>
@@ -36,7 +67,8 @@ Halo, nama saya
     </tr>
 </table>
 
-#### Pendidikan 
+{: .pt-3}
+##### PENDIDIKAN
 {: .mt-3}
 <!-- [1996 - 2002] SD Inpres 1 Payahe <br>
 [2002 - 2005] SMP Negeri 1 Oba <br> -->
@@ -44,8 +76,10 @@ Halo, nama saya
 [2008 - 2013]  Program S1 STMIK Handayani Makassar <br>
 [2014 - 2018]  Program S2 STMIK Handayani Makassar <br>
 
-#### Pekerjaan
-Saat ini saya mengajar di salah satu Sekolah Tinggi Ilmu Komputer di propinsi Maluku Utara.<br> Selain mengajar, saya juga bekerja sebagai desainer grafis, membuat website dan membuat aplikasi.
+{: .pt-3}
+##### PEKERJAAN
+Saat ini saya mengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_, tepatnya di propinsi Maluku Utara. Saya juga bekerja sebagai desainer grafis, membuat website dan aplikasi web.
 
-#### Ketertarikan
+{: .pt-3}
+##### KETERTARIKAN
 Tertarik mempelajari hal-hal baru berhubungan dengan ilmu komputer, khususnya di bidang Web Development dan Design. 
