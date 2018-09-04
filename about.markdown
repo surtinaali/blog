@@ -50,31 +50,54 @@ Halo, nama saya
 {: .pt-3}
 ##### PENGALAMAN 
 <table>
-    <tr>
-        <td valign="top" width="105px">MENGAJAR </td>
-        <td valign="top" width="15px" align="center">:</td>
-        <td>Frontend design, sistem operasi, jaringan komputer dan pengamanan sistem komputer</td>
-        <tr>
-            <td valign="top">CODING </td>
-            <td valign="top" align="center">:</td>
-            <td>HTML, CSS, JavaScript, Bash Programming, PHP, Java, Sql</td>
-        </tr>
-        <tr>
-            <td valign="top">WEB BUILDER </td>
-            <td valign="top" align="center">:</td>
-            <td>Wordpress, Joomla, Drupal dan Jekyll</td>
-        </tr>
-    </tr>
+	<tr>
+		<td valign="top" width="105px">MENGAJAR </td>
+		<td valign="top" width="15px" align="center">:</td>
+		<td>Frontend design, sistem operasi, jaringan komputer dan pengamanan sistem komputer</td>
+	</tr>
+	<tr>
+		<td valign="top">CODING </td>
+		<td valign="top" align="center">:</td>
+		<td>HTML, CSS, JavaScript, Bash Programming, PHP, Java, Sql</td>
+	</tr>
+	<tr>
+		<td valign="top">WEB BUILDER </td>
+		<td valign="top" align="center">:</td>
+		<td>Wordpress, Joomla, Drupal dan Jekyll</td>
+	</tr>
 </table>
 
 {: .pt-3}
 ##### PENDIDIKAN
 {: .mt-3}
-<!-- [1996 - 2002] SD Inpres 1 Payahe <br>
-[2002 - 2005] SMP Negeri 1 Oba <br> -->
-[2005 - 2008]  SMA Negeri 1 Ternate <br>
-[2008 - 2013]  Program S1 STMIK Handayani Makassar <br>
-[2014 - 2018]  Program S2 STMIK Handayani Makassar <br>
+<table>
+		<tr>
+			<td valign="top" width="105px">[1996 - 2002]</td>
+			<td valign="top" width="15px" align="center">:</td>
+			<td>SD Inpres 1 Payahe</td>
+		</tr>
+			<tr>
+				<td valign="top">[2002 - 2005]</td>
+				<td valign="top" align="center">:</td>
+				<td>SMP Negeri 1 Kec. Oba</td>
+			</tr>
+			<tr>
+				<td valign="top">[2005 - 2008]</td>
+				<td valign="top" align="center">:</td>
+				<td>SMA Negeri 1 Ternate</td>
+			</tr>
+			<tr>
+					<td valign="top">[2008 - 2013]</td>
+					<td valign="top" align="center">:</td>
+					<td>Program S1 STMIK Handayani Makassar</td>
+			</tr>
+			<tr>
+					<td valign="top">[2014 - 2018]</td>
+					<td valign="top" align="center">:</td>
+					<td>Program S2 STMIK Handayani Makassar</td>
+			</tr>
+	</table>
+
 
 {: .pt-3}
 ##### PEKERJAAN
