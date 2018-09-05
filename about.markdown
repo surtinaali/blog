@@ -88,19 +88,19 @@ Halo, nama saya
 			<tr>
 					<td valign="top">[2008 - 2013]</td>
 					<td valign="top" align="center">:</td>
-					<td>Program S1 STMIK Handayani Makassar</td>
+					<td>S1 STMIK Handayani Makassar</td>
 			</tr>
 			<tr>
 					<td valign="top">[2014 - 2018]</td>
 					<td valign="top" align="center">:</td>
-					<td>Program S2 STMIK Handayani Makassar</td>
+					<td>S2 STMIK Handayani Makassar</td>
 			</tr>
 	</table>
 
 {: .pt-4}
 ##### PEKERJAAN
-Saat ini saya mengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_, tepatnya di propinsi Maluku Utara. Saya juga bekerja sebagai desainer grafis, membuat website dan aplikasi web.
+Saat ini bekerja sebagai tenaga pengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_. Lokasinya bertempat di Kota Tidore Kepulauan, Propinsi Maluku Utara. [Kordinat Google](){:target="new"} 
 
 {: .pt-3}
 ##### KETERTARIKAN
-Tertarik mempelajari hal-hal baru berhubungan dengan ilmu komputer, khususnya di bidang Web Development dan Design. 
+Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Web Design dan Web Development.
