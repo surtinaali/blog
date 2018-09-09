@@ -34,7 +34,7 @@ Cara yang kedua, saya bisa gunakan sub topik dari Web Development, yaitu front e
 
 Sebagai solusi, saat ini saya menggunakan cara ketiga. Nama kategori ditentukan berdasarkan tahapan dalam pengembangan web. Jadi, bahasa web seperti HTML, CSS dan JavaScript akan digabungkan ke dalam satu kategori yaitu "Pemula". PHP, Web Framework, Jekyll dan teknologi web lainnya akan dipisah sesuai dengan namanya sendiri. 
 
-##### Kesimpulan 
+#### Kesimpulan 
 
 Sebagai kesimpulan, dalam blog ini terdapat tiga jenis tulisan : 
 1. Dokumentasi - tulisan jenis dokumentasi ini memuat tentang potongan-potongan kode program yang di dokumentasikan sebagai arsip. Potongan kode juga bisa berupa perintah command line. Hal ini perlu saya lakukan untuk mempermudah pada saat dibutuhkan nanti.

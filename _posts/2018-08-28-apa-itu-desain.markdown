@@ -61,5 +61,5 @@ __5. Uji Coba dan Implementasi__
 Boleh melakukan uji coba terlebih dahulu kemudian implementasi, atau langsung implementasi.
 
 <br>
-##### Daftar Pustaka 
-[GCFLearnFree.org - 2015 - What is Design](https://www.youtube.com/watch?v=7Z2YffmNCeo&index=3&list=PLpQQipWcxwt8B7nqDmAnJ7zL4H1BtLXQz){:target="new"}<br>
+#### Daftar Pustaka 
+[[1] &nbsp; GCFLearnFree.org - 2015 - What is Design](https://www.youtube.com/watch?v=7Z2YffmNCeo&index=3&list=PLpQQipWcxwt8B7nqDmAnJ7zL4H1BtLXQz){:target="new"}<br>

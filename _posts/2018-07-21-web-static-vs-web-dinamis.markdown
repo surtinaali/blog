@@ -63,6 +63,6 @@ Contoh kode web dinamis :
 {% endhighlight %}
 
 #### Daftar Pustaka 
-[1. Comparison of Static and Dynamic Websites](https://www.webnots.com/comparison-of-static-and-dynamic-website/){:target="new"}<br>
-[2. Static VS Dynamic Website](https://www.javatpoint.com/website-static-vs-dynamic){:target="new"}<br>
+[[1]  &nbsp; Comparison of Static and Dynamic Websites](https://www.webnots.com/comparison-of-static-and-dynamic-website/){:target="new"}<br>
+[[2]  &nbsp; Static VS Dynamic Website](https://www.javatpoint.com/website-static-vs-dynamic){:target="new"}<br>
 [](){:target="new"}

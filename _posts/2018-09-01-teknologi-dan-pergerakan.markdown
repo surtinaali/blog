@@ -8,10 +8,10 @@ img_path: assets/img/post/180901.svg
 
 Saya baru saja membaca sebuah manifesto dari _The League Of Moveable Type_, sebuah revolusi tipografi open source yang dimulai sejak Februari 2009. Manifesto seperti ini bukan yang pertama yang pernah saya baca, dan untuk kesekian kalinya membuat saya teringat pada kata "PERGERAKAN".
 
-##### Definisi pergerakan
+#### Definisi pergerakan
 Pergerakan dalam Kamus Besar Bahasa Indonesia memiliki makna kebangkitan (untuk perjuangan atau perbaikan). Sejalan dengan defenisi tersebut, dapat dikatakan pergerakan merupakan bentuk tindakan perubahan untuk mewujudkan sesuatu menjadi lebih baik.   
 
-##### Teknologi dan pergerakan 
+#### Teknologi dan pergerakan 
 Dulunya ketika mendengar kata pergerakan, yang terlintas dipikiran saya adalah sosial, agama, politik dan budaya, tak pernah terlintas dipikiran saya tentang teknologi. Sampai saya mencoba memahami bagaimana teknologi dikembangkan (dibuat).
 
 Teknologi adalah pergerakan dalam konteks bagaimana teknologi tersebut dikembangkan. Ketika sebuah teknologi dikembangkan, membutuhkan orang-orang dengan keahliannya masing-masing, dan orang-orang tersebut yakin dan bekerja dengan misi membuat hidup menjadi lebih baik. 
@@ -20,7 +20,7 @@ Sebagaimana Mark Zuckerberg ketika membangun perusahaan IT Facebook, misi yang d
 
 Begitu juga dengan google _["Our mission is to organize the world’s information and make it universally accessible and useful."](https://www.google.com/about/){:target="new"}_.
 
-##### Mengapa kita harus peduli ?
+#### Mengapa kita harus peduli ?
 
 Kita ketahui bersama, dibalik segala kemudahan dan kelebihan yang kita rasakan dengan adanya teknologi, banyak pula keburukan yang timbul. Misi facebook untuk mendekatkan orang yang jauh ternyata membuat jauh orang yang dekat.  
 
