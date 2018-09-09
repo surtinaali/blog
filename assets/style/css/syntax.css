@@ -1,3 +1,4 @@
+.highlight { border-radius: 1px; padding: 16px 30px 1px; background: #e6e6e6; }
 .highlight table pre{margin:0}
 .highlight .c,.highlight .c1,.highlight .cd,.highlight .cm{color:#888}
 .highlight .cp{color:#c00;font-weight:700}
