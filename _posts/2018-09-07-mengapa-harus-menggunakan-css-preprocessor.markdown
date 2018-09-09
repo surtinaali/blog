@@ -222,6 +222,6 @@ aside[role="complementary"] {
 {% endhighlight %}
 
 <br>
-##### Daftar Pustaka 
+#### Referensi : 
 [[1] &nbsp; Sass Basics](https://sass-lang.com/guide){:target="new"}<br>
 [[2] &nbsp; 10 Reasons to Use a CSS Preprocessor in 2018](https://raygun.com/blog/10-reasons-css-preprocessor/){:target="new"}<br>

@@ -89,7 +89,7 @@ Untuk menggunakan rouge highlitter dalam menulis potongan kode gunakan `{% raw %
 {% endraw %}
 {% endhighlight %}
 
-#### Daftar Pustaka 
+#### Referensi : 
 [[1]  &nbsp; Jekyllrb](https://jekyllrb.com/docs/templates/#code-snippet-highlighting){:target="new"}<br>
 [[2]  &nbsp; Syntax Highlighting in Jekyll With Rouge](https://sacha.me/articles/jekyll-rouge/){:target="new"}<br>
 [[3]  &nbsp; Add Syntax Highlighting to your Jekyll site with Rouge](https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html){:target="new"}<br>

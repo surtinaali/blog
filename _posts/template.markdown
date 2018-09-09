@@ -6,10 +6,8 @@ categories: catatan, pemula, jekyll,
 img_path: assets/img/post/noimage.svg
 ---
 
-1. Tulis nama font yang digunakan 
-2. Tulis kode HEXA dari warna yang digunakan 
-3.   
 
 
-##### Daftar Pustaka 
-[](){:target="new"}<br>
+
+#### Referensi : 
+[[1] &nbsp; ](){:target="new"}<br>
