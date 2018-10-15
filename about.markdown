@@ -79,6 +79,10 @@ Halo, nama saya
 	</table>
 
 {: .pt-3}
+##### KETERTARIKAN
+Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Web Design dan Web Development.
+
+{: .pt-3}
 ##### PENGALAMAN 
 <table>
 	<tr>
@@ -101,7 +105,3 @@ Halo, nama saya
 {: .pt-4}
 ##### PEKERJAAN
 Saat ini bekerja sebagai tenaga pengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_. Lokasinya bertempat di Kota Tidore Kepulauan, Propinsi Maluku Utara. [Kordinat Google](){:target="new"} 
-
-{: .pt-3}
-##### KETERTARIKAN
-Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Web Design dan Web Development.
