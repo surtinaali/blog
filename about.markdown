@@ -47,25 +47,6 @@ Halo, nama saya
 }
 </style>
 
-{: .pt-3}
-##### PENGALAMAN 
-<table>
-	<tr>
-		<td valign="top" width="105px">MENGAJAR </td>
-		<td valign="top" width="15px" align="center">:</td>
-		<td>Frontend design, sistem operasi, jaringan komputer dan pengamanan sistem komputer</td>
-	</tr>
-	<tr>
-		<td valign="top">CODING </td>
-		<td valign="top" align="center">:</td>
-		<td>HTML, CSS, JavaScript, Bash Programming, PHP, Java, Sql</td>
-	</tr>
-	<tr>
-		<td valign="top">WEB BUILDER </td>
-		<td valign="top" align="center">:</td>
-		<td>Wordpress, Joomla, Drupal dan Jekyll</td>
-	</tr>
-</table>
 
 {: .pt-4}
 ##### PENDIDIKAN
@@ -96,6 +77,26 @@ Halo, nama saya
 					<td>S2 STMIK Handayani Makassar</td>
 			</tr>
 	</table>
+
+{: .pt-3}
+##### PENGALAMAN 
+<table>
+	<tr>
+		<td valign="top" width="105px">MENGAJAR </td>
+		<td valign="top" width="15px" align="center">:</td>
+		<td>Frontend design, sistem operasi, jaringan komputer dan pengamanan sistem komputer</td>
+	</tr>
+	<tr>
+		<td valign="top">CODING </td>
+		<td valign="top" align="center">:</td>
+		<td>HTML, CSS, JavaScript, Bash Programming, PHP, Java, Sql</td>
+	</tr>
+	<tr>
+		<td valign="top">WEB BUILDER </td>
+		<td valign="top" align="center">:</td>
+		<td>Wordpress, Joomla, Drupal dan Jekyll</td>
+	</tr>
+</table>
 
 {: .pt-4}
 ##### PEKERJAAN
