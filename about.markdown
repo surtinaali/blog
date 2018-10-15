@@ -78,11 +78,11 @@ Halo, nama saya
 			</tr>
 	</table>
 
-{: .pt-3}
+{: .pt-4}
 ##### KETERTARIKAN
 Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Web Design dan Web Development.
 
-{: .pt-3}
+{: .pt-4}
 ##### PENGALAMAN 
 <table>
 	<tr>
