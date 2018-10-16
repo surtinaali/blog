@@ -56,19 +56,19 @@ Sebagai bahan pertimbangan buat anda dalam memastikan Apakah isi dari blog yang 
 ##### PENDIDIKAN
 <table>
 		<tr>
-			<td valign="top" width="105px">[1996 - 2002]</td>
+			<td valign="top" width="105px"><del>[1996 - 2002]</del></td>
 			<td valign="top" width="15px" align="center">:</td>
-			<td>SD Inpres 1 Payahe</td>
+			<td><del>SD Inpres 1 Payahe</del></td>
 		</tr>
 			<tr>
-				<td valign="top">[2002 - 2005]</td>
+				<td valign="top"><del>[2002 - 2005]</del></td>
 				<td valign="top" align="center">:</td>
-				<td>SMP Negeri 1 Kec. Oba</td>
+				<td><del>SMP Negeri 1 Kec. Oba</del></td>
 			</tr>
 			<tr>
-				<td valign="top">[2005 - 2008]</td>
+				<td valign="top"><del>[2005 - 2008]</del></td>
 				<td valign="top" align="center">:</td>
-				<td>SMA Negeri 1 Ternate</td>
+				<td><del>SMA Negeri 1 Ternate</del></td>
 			</tr>
 			<tr>
 					<td valign="top">[2008 - 2013]</td>
