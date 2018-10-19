@@ -108,4 +108,4 @@ Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Web De
 
 {: .pt-4}
 ##### PEKERJAAN
-Saat ini bekerja sebagai tenaga pengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_. Lokasinya bertempat di Kota Tidore Kepulauan, Propinsi Maluku Utara. [Kordinat Google](https://goo.gl/maps/sYwGjmaArf22){:target="new"} 
+Saat ini bekerja sebagai tenaga pengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_. [Kordinat Google](https://goo.gl/maps/sYwGjmaArf22){:target="new"} 
