@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Content management system (CMS)"
+title: "Apa itu Content management system (CMS)"
 date: 2018-07-16 02:19:00 +0900
 categories: pemula
 img_path: assets/img/post/180716.svg

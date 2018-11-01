@@ -6,7 +6,7 @@ categories: pemula
 img_path: assets/img/post/181102.svg
 ---
 
-Generator web statis adalah sebuah perangkat lunak yang digunakan untuk mempermudah dalam membuat dan mengatur website yang dibangun menggunakan teknologi Web Statis (HTML, CSS dan JavaScript). Tidak ada proses query data pada website statis, semua konten tersimpan di dalam fail. 
+Generator web statis adalah jenis dari perangkat lunak yang digunakan untuk mempermudah dalam membuat dan mengatur website yang dibangun menggunakan teknologi Web Statis (HTML, CSS dan JavaScript). Tidak ada proses query data pada website statis, semua konten tersimpan di dalam fail. 
 
 HTML digunakan untuk membangun struktur konten website, CSS digunakan untuk membentuk layout dari website, sementara JavaScript digunakan untuk membuat website lebih interaktif. 
 
