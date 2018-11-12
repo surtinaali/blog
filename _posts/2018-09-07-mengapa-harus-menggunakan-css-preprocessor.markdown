@@ -6,9 +6,9 @@ categories: tinjauan
 img_path: assets/img/post/180907.svg
 ---
 
-Kita bisa saja menulis kode CSS tanpa bantuan CSS preprocessor, namun seiring dengan berkembangnya kode yang ditulis, akan sangat menyulitkan ketika melakukan perawatan atau perbaikan kode. Sederhananya, itulah alasan kita membutuhkan CSS preprocessor.
+Kita bisa saja menulis kode CSS tanpa bantuan CSS preprocessor, namun seiring dengan berkembangnya kode yang ditulis, akan sangat menyulitkan ketika melakukan perawatan atau perbaikan kode. Sederhananya, itulah alasan _mengapa harus menggunakan CSS preprocessor_.
 
-Ada beberapa CSS preprocessor yang digunakan oleh web developer, seperti SASS, LESS dan STYLUS. Walaupun pada umumnya SASS, LESS dan STYLUS memiliki fitur yang sama, pembahasan dalam artikel ini akan membahas khusus tentang SASS sebagai salah satu CSS preprocessor, <del>tidak ada alasan khusus mengapa SASS</del>.   
+Ada beberapa CSS preprocessor yang digunakan oleh web developer (_lebih tepatnya: frontend developer_), seperti SASS, LESS dan STYLUS. Walaupun pada umumnya SASS, LESS dan STYLUS memiliki fitur yang sama, pembahasan dalam artikel ini akan membahas khusus tentang SASS, <del>tidak ada alasan khusus mengapa SASS</del>.   
 
 #### Variabel
 Variabel menyimpan nilai atau `value` dari sebuah properti CSS. Ketika menulis nilai sebuah properti, dibanding menulis langsung nilainya, yang ditulis adalah nama variabel. Sehingga ketika nilai dari warna latar atau properti `background` kedepannya ingin dirubah, jika ada lebih dari satu properti `background`, kita hanya perlu mengganti `value` yang ada di variabel.

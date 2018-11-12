@@ -48,9 +48,9 @@ Halo, nama saya
 </style>
 
 {: .pt-4}
-Salam kenal, asal saya dari bagian Timur Indonesia tepatnya di Kota Tidore Kepulauan, Provinsi Maluku Utara. Berbagi adalah sesuatu yang harus dilakukan setiap orang, untuk itulah saya meluangkan waktu membuat blog _(baca "catatan")_. 
+Salam kenal, asal saya dari Timur Indonesia tepatnya di Kota Tidore Kepulauan, Provinsi Maluku Utara. Berbagi adalah hal yang harus dilakukan setiap orang, dengan alasan itulah saya meluangkan waktu membuat blog _(baca "catatan")_.
 
-Sebagai bahan pertimbangan buat anda dalam memastikan Apakah isi dari konten yang saya buat sesuai dengan anda, berikut latar belakang pendidikan, ketertarikan, pengalaman dan pekerjaan saya :  
+Sebagai bahan pertimbangan buat anda dalam memastikan Apakah isi dari konten blog yang saya buat sesuai dengan anda, berikut latar belakang pendidikan, ketertarikan, pengalaman dan pekerjaan saya :  
 
 {: .pt-4}
 ##### PENDIDIKAN
@@ -84,7 +84,7 @@ Sebagai bahan pertimbangan buat anda dalam memastikan Apakah isi dari konten yan
 
 {: .pt-4}
 ##### KETERTARIKAN
-Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Web Design dan Web Development.
+Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Teknologi Web, Web Design dan Web Development.
 
 {: .pt-3}
 ##### PENGALAMAN 
