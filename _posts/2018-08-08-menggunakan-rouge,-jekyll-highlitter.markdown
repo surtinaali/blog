@@ -84,7 +84,7 @@ Untuk menggunakan rouge highlitter dalam menulis potongan kode gunakan `{% raw %
 {% highlight LIQUID %}
 {% raw %}
 {% highlight HTML %}
-    //kodenya masukkan disini
+    //source code masukkan disini
 {% endhighlight %}
 {% endraw %}
 {% endhighlight %}
