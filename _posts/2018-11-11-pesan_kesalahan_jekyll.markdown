@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pesan Kesalahan Jekyll"
+title:  "Pesan-pesan kesalahan Jekyll"
 date:   2018-11-11 13:37:00 +0900
 categories: jekyll
 img_path: assets/img/post/noimage.svg
@@ -48,3 +48,9 @@ You have already activated concurrent-ruby 1.1.3, but your gemfile requires conc
 {% highlight POWERSHELL %}
 bundle exec jekyll serve -l
 {% endhighlight %}
+
+<br>
+
+##### _Artikel akan diupdate jika ditemukan lagi pesan kesalahan lain_
+
+<br>
