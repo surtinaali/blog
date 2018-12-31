@@ -4,6 +4,7 @@ layout: about
 img_path: assets/img/bismillahirrahmanirrahim.svg
 date: 2018-07-17 02:15:00 +0900
 ---
+
 {:.text-center #profil}
 ![Hallo, saya Said D. Bahta]({{ site.baseurl }}/assets/img/profil.jpg){:.rounded-circle .border .border-light .shadow-lg width="240rem"}
 
