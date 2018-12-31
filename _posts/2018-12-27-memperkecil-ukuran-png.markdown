@@ -6,7 +6,7 @@ categories: dokumentasi
 img_path:   assets/img/post/noimage.svg
 ---
 
-Kapasitas gambar yang besar sering menjadi masalah pada saat loading sebuah website. Banyak trik yang bisa dilakukan untuk mempercepat waktu tunggu pada saat gambar diload untuk ditampilkan. Salah satu trik yang sering digunakan adalah dengan memperkecil kapasitas dari gambar. 
+Kapasitas gambar yang besar sering menjadi masalah pada saat loading sebuah website. Banyak trik yang bisa dilakukan untuk mempercepat waktu tunggu pada saat gambar diload untuk ditampilkan. Salah satu trik yang sering digunakan adalah dengan memperkecil kapasitas gambar. 
 
 PNGQUANT adalah sebuah aplikasi compress khusus untuk gambar dengan tipe berkas PNG. PNGQUANT melakukan compress [_baca: memperkecil_] ukurang gambar dengan mengkonfersi gambar PNG 32bit menjadi gambar PNG 8bit. 
 
