@@ -2,7 +2,7 @@
 layout: post
 title:  "Pesan-pesan kesalahan Jekyll"
 date:   2018-11-11 13:37:00 +0900
-categories: jekyll
+categories: dokumentasi
 img_path: assets/img/post/noimage.svg
 ---
 
