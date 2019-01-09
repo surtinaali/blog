@@ -6,7 +6,7 @@ categories: jekyll
 img_path: assets/img/post/190901.svg
 ---
 
-Untuk menampilkan berita berupa collection jekyll, saya menggunakan kode dibawah ini. Masalahnya adalah jekyll ketika mengkompilasi collection, berita yang disebut diurut berdasarkan huruf menyebabkan artikel yang paling terakhir tidak muncul di halaman depan ketika dibatasi hanya 4 berita yang tampil dihalaman depan. 
+Untuk menampilkan berita berupa collection jekyll, saya menggunakan kode dibawah ini. Masalahnya adalah jekyll ketika mengkompilasi collection, berita diurut berdasarkan huruf (nama berkas) menyebabkan artikel yang paling terakhir tidak muncul di halaman depan ketika dibatasi hanya 4 berita yang tampil dihalaman depan. 
 
 {% highlight LIQUID %}
 {% raw %}
