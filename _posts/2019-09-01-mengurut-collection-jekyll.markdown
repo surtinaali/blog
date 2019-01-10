@@ -6,7 +6,7 @@ categories: jekyll
 img_path: assets/img/post/190901.svg
 ---
 
-Untuk menampilkan berita berupa collection jekyll, saya menggunakan kode dibawah ini. Masalahnya adalah jekyll ketika mengkompilasi collection, berita diurut berdasarkan huruf (nama berkas) menyebabkan artikel yang paling terakhir tidak muncul di halaman depan ketika dibatasi hanya 4 berita yang tampil dihalaman depan. 
+Untuk menampilkan artikel berupa collection jekyll, saya menggunakan kode dibawah ini. Masalahnya adalah jekyll ketika mengkompilasi collection, artikel diurut berdasarkan huruf (nama berkas) menyebabkan artikel yang paling terakhir tidak muncul di halaman depan ketika dibatasi hanya 4 berita yang tampil dihalaman depan. 
 
 {% highlight LIQUID %}
 {% raw %}
@@ -30,7 +30,7 @@ Untuk menampilkan berita berupa collection jekyll, saya menggunakan kode dibawah
 
 Setelah bertanya ke google, ada dua cara yang bisa dilakukan untuk menyelesaikan masalah diatas. 
 
-1. Memberi di depan nama fail markdown nomor, misalnya _1-artikel.markdown, 2-artikel.markdown, dst_. 
+##### Cara pertama, memberi nomor di depan nama fail markdown, misalnya _1-artikel.markdown, 2-artikel.markdown, dst_.
 
 {% highlight LIQUID %}
 {% raw %}
@@ -54,7 +54,7 @@ Setelah bertanya ke google, ada dua cara yang bisa dilakukan untuk menyelesaikan
 {% endraw %}
 {% endhighlight %}
 
-2. Cara yang kedua adalah dengan menambahkan front matter _nomor_ di artikel berita.markdown, agar artikel nanti diurutkan berdasarkan nomor tersebut. Misalnya contoh dibawah dibagian front matter artikel di tambahkan _nomor: 1_.
+##### Cara yang kedua adalah dengan menambahkan front matter _nomor_ di artikel berita.markdown, agar artikel nanti diurutkan berdasarkan nomor tersebut. Misalnya contoh dibawah dibagian front matter artikel di tambahkan _nomor: 1_.
 
 {% highlight LIQUID %}
 ---
