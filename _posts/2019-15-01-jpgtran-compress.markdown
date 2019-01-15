@@ -13,7 +13,7 @@ Beberapa hari lalu saya membahas tentang memperkecil kapasitas gambar PNG menggu
 Dari artikel yang saya baca kata yang selalu digunakan adalah OPTIMASI jadi mungkin lebih tepat jika Judul Artikel ini "Mengoptimasi gambar JPG menggunakan JPEGTRAN". Kata kapasitas tidak perlu disebutkan karena optimasi berarti menurunkan kapasitas gambar. 
 
 #### Hal Kedua yang saya pelajari
-Terdapat dua jenis gambar JPG. Gambar JPG baseline dan gambar JPG progressive. Percobaan optimasi gambar JPG pertama yang saya lakukan adalah menggunakan parameter `-copy none` + `-progressive, kapasitas gambarnya berkurang menjadi 78.1KB dari kapasitas sebelumnya 106KB. Kemudian percobaan kedua saya menggunakan parameter `-copy none` + `-optimize`, kapasitas gambarnya berkurang menjadi 79.8KB dari ukuran sebelum melakukan optimasi 106KB. Berikut adalah perintah lengkapnya : 
+Terdapat dua jenis gambar JPG. Gambar JPG baseline dan gambar JPG progressive. Percobaan optimasi gambar JPG pertama yang saya lakukan adalah menggunakan parameter `-copy none` + `-progressive`, kapasitas gambarnya berkurang menjadi 78.1KB dari kapasitas sebelumnya 106KB. Kemudian percobaan kedua saya menggunakan parameter `-copy none` + `-optimize`, kapasitas gambarnya berkurang menjadi 79.8KB dari ukuran sebelum melakukan optimasi 106KB. Berikut adalah perintah lengkapnya : 
 
 {% highlight POWERSHELL %}
 jpegtran.exe -copy none -progressive nama-berkas.JPG nama-berkas-compress.JPG
