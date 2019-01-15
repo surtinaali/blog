@@ -2,7 +2,7 @@
 layout: post
 title:  Yang perlu diketahui tentang baseURL
 date:   2019-01-13 10:47:00 +0900
-categories: jekyll,
+categories: jekyll
 img_path: assets/img/post/noimage.svg
 ---
 
