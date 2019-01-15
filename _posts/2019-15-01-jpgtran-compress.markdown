@@ -1,19 +1,19 @@
 ---
 layout:     post
-title:      Memperkecil kapasitas gambar JPG menggunakan JPEGTRAN 
+title:      Memperkecil ukuran berkas gambar JPG menggunakan JPEGTRAN 
 date:       2019-01-15 15:02:00 +0900
 categories: dokumentasi
 img_path:   assets/img/post/190115.svg
 ---
 
-Beberapa hari lalu saya membahas tentang memperkecil kapasitas gambar PNG menggunakan PNGQUANT. Kapasitas berkas berhasil dikurangi tapi pada umumnya para pengembang website lebih banyak menggunakan tipe berkas JPG dibanding PNG. Karena penasaran pada akhirnya saya menemukan aplikasi JPEGTRAN. Artikel ini menjelaskan beberapa hal yang saya pelajari tentang gambar dan JPEGTRAN. 
+Beberapa hari lalu saya membahas tentang memperkecil ukuran berkas gambar PNG menggunakan PNGQUANT. Ukuran berkas berhasil berkurang tapi pada umumnya para pengembang website lebih banyak menggunakan tipe berkas JPG dibanding PNG. Karena penasaran pada akhirnya saya menemukan aplikasi JPEGTRAN. Artikel ini menjelaskan beberapa hal yang saya pelajari tentang gambar dan JPEGTRAN. 
 
 #### Hal pertama yang saya pelajari
 
-Dari artikel yang saya baca kata yang selalu digunakan adalah OPTIMASI jadi mungkin lebih tepat jika Judul Artikel ini "Mengoptimasi gambar JPG menggunakan JPEGTRAN". Kata kapasitas tidak perlu disebutkan karena optimasi berarti menurunkan kapasitas gambar. 
+Dari artikel yang saya baca kata yang selalu digunakan adalah OPTIMASI jadi mungkin lebih tepat jika Judul Artikel ini "Mengoptimasi gambar JPG menggunakan JPEGTRAN". Kata ukuran berkas tidak perlu disebutkan karena optimasi berarti menurunkan ukuran berkas gambar. 
 
 #### Hal Kedua yang saya pelajari
-Terdapat dua jenis gambar JPG. Gambar JPG baseline dan gambar JPG progressive. Percobaan optimasi gambar JPG pertama yang saya lakukan adalah menggunakan parameter `-copy none` + `-progressive`, kapasitas gambarnya berkurang menjadi 78.1KB dari kapasitas sebelumnya 106KB. Kemudian percobaan kedua saya menggunakan parameter `-copy none` + `-optimize`, kapasitas gambarnya berkurang menjadi 79.8KB dari ukuran sebelum melakukan optimasi 106KB. Berikut adalah perintah lengkapnya : 
+Terdapat dua jenis gambar JPG. Gambar JPG baseline dan gambar JPG progressive. Percobaan optimasi gambar JPG pertama yang saya lakukan adalah menggunakan parameter `-copy none` + `-progressive`, ukuran berkas gambarnya berkurang menjadi 78.1KB dari ukuran sebelumnya 106KB. Kemudian percobaan kedua saya menggunakan parameter `-copy none` + `-optimize`, ukuran berkasnya berkurang menjadi 79.8KB dari ukuran sebelum melakukan optimasi 106KB. Berikut adalah perintah lengkapnya : 
 
 {% highlight POWERSHELL %}
 jpegtran.exe -copy none -progressive nama-berkas.JPG nama-berkas-compress.JPG
