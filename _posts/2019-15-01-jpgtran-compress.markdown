@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Memperkecil ukuran gambar JPG menggunakan JPEGTRAN 
-date:       2019-15-01 15:02:00 +0900
+date:       2019-01-15 15:02:00 +0900
 categories: dokumentasi
-img_path:   assets/img/post/noimage.svg
+img_path:   assets/img/post/190115.svg
 ---
 
 Beberapa hari yang lalu saya membahas tentang memperkecil ukuran gambar PNG menggunakan PNGQUANT. Ukurannya memang menjadi kecil, tapi pada umumnya para pengembang website lebih banyak menggunakan tipe berkas JPG dibanding PNG. Karena penasaran pada akhirnya saya menemukan aplikasi JPEGTRAN. Artikel ini menjelaskan beberapa hal yang saya pelajari berhubungan dengan JPEGTRAN. 
