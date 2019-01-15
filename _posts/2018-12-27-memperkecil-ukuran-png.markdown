@@ -3,7 +3,7 @@ layout:     post
 title:      Memperkecil ukuran gambar PNG menggunakan PNGQUANT
 date:       2018-12-11 10:47:00 +0900
 categories: dokumentasi
-img_path:   assets/img/post/noimage.svg
+img_path:   assets/img/post/190115b.svg
 ---
 
 Kapasitas gambar yang besar sering menjadi masalah pada saat loading sebuah website. Banyak trik yang bisa dilakukan untuk mempercepat waktu tunggu pada saat gambar diload untuk ditampilkan. Salah satu trik yang sering digunakan adalah dengan memperkecil kapasitas gambar. 

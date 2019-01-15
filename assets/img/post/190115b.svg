@@ -28,7 +28,7 @@
 	.st22{fill:#444444;}
 	.st23{fill:#FAFAFA;}
 	.st24{fill:#F3F3F3;}
-	.st25{font-family:'MyriadPro-Regular';}
+	.st25{font-family:'ArialMT';}
 	.st26{font-size:25.627px;}
 </style>
 <g>
@@ -161,5 +161,5 @@
 	<path class="st3" d="M97.7,134.5c-5.2,0-10.4,0-15.6,0c0-0.2,0-0.4,0-0.6c5.2,0,10.4,0,15.5,0C97.6,134.1,97.6,134.3,97.7,134.5z"
 		/>
 </g>
-<text transform="matrix(1 0 0 1 55.0878 94.85)" class="st0 st25 st26">JPEG</text>
+<text transform="matrix(1 0 0 1 55.0878 94.8499)" class="st0 st25 st26">PNG</text>
 </svg>
