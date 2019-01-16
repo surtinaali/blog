@@ -34,7 +34,7 @@ Setelah mengubah Nameserver, pada halaman dashboard pilih Crypto dan Pastikan di
 
 Yang terakhir arahkan ke Page Rules dan klik `Create Page Rule` setelah itu buat rulenya. Masukkan nama domain http://\*saidbahta.blog/\* dan pilih Always Use HTTPS. 
 
-tanda * sebelum saidbahta = merupakan karakter pengganti subdomain 
+tanda * sebelum saidbahta = merupakan karakter pengganti subdomain <br>
 tanda * setelah saidbahta = merupakan karakter pengganti path
 
 #### Buat CNAME 
