@@ -55,37 +55,11 @@ Sebagai bahan pertimbangan buat anda dalam memastikan Apakah isi dari konten blo
 
 {: .pt-4}
 ##### PENDIDIKAN
-<table>
-		<tr>
-			<td valign="top" width="105px"><del>[1996 - 2002]</del></td>
-			<td valign="top" width="15px" align="center">:</td>
-			<td><del>SD Inpres 1 Payahe</del></td>
-		</tr>
-			<tr>
-				<td valign="top"><del>[2002 - 2005]</del></td>
-				<td valign="top" align="center">:</td>
-				<td><del>SMP Negeri 1 Kec. Oba</del></td>
-			</tr>
-			<tr>
-				<td valign="top"><del>[2005 - 2008]</del></td>
-				<td valign="top" align="center">:</td>
-				<td><del>SMA Negeri 1 Ternate</del></td>
-			</tr>
-			<tr>
-					<td valign="top">[2008 - 2013]</td>
-					<td valign="top" align="center">:</td>
-					<td>S1 STMIK Handayani Makassar</td>
-			</tr>
-			<tr>
-					<td valign="top">[2014 - 2018]</td>
-					<td valign="top" align="center">:</td>
-					<td>S2 STMIK Handayani Makassar</td>
-			</tr>
-	</table>
+Latar belakang pendidikan saya diawal mengenal komputer lebih banyak mempelajari Sistem operasi, Jaringan komputer dan Pengamanan komputer yang masuk dalam domain program studi Sistem Komputer.
 
 {: .pt-4}
 ##### KETERTARIKAN
-Tertarik mempelajari hal baru berhubungan dengan ilmu komputer, khususnya Teknologi Web, Web Design dan Web Development.
+Sekarang saya lebih banyak mempelajari Teknologi Web, Web Desain dan Pengembangan Sistem Informasi.
 
 {: .pt-3}
 ##### PENGALAMAN 
