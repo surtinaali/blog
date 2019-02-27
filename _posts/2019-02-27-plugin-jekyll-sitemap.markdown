@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Membuat website di kenal search engine menggunakan plug-in jekyll-sitemap dan Google Search Console
+title:      Membuat website di kenal search engine [jekyll-sitemap & Google Search Console]
 date:       2019-02-27 10:47:00 +0900
 categories: jekyll
 img_path:   assets/img/post/noimage.svg
