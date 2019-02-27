@@ -6,7 +6,7 @@ categories: jekyll
 img_path:   assets/img/post/noimage.svg
 ---
 
-Sebenarnya sekarang ini lagi dalam kondisi sulit-sulitnya menulis blog, karena disibukkan dengan pekerjaan. Tapi saya harus menyempatkan sedikit waktu, karena ternyata tulisan-tulisan yang pernah di tulis di blog sama sekali belum ditemukan di search engine Google. Wajar, sejak awal blog dibuat saya memang sengaja merencakan menulis dulu, SEO-nya nanti nyusul.
+Sebenarnya sekaranglagi dalam kondisi sulit-sulitnya mencari waktu menulis blog, karena disibukkan dengan pekerjaan. Tapi saya harus menyempatkan sedikit waktu, karena ternyata tulisan-tulisan yang pernah di tulis di blog sama sekali belum ditemukan di search engine Google. Wajar, sejak awal blog dibuat saya memang sengaja merencakan menulis dulu, SEO-nya nanti nyusul.
 
 Yang jadi pertanyaan saya sekarang, mengapa dulunya saya merencanakan harus nulis dulu nanti SEO-nya belakangan? padahal tidak ada loh aturan seperti itu. Inilah akibat dari membawa masa lalu ke masa sekarang. 
 
