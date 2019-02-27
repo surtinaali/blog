@@ -11,6 +11,10 @@ description:      Membahas perspektif penulis tentang komputer dan web developme
 url:              "https://saidbahta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:          "/blog" # the subpath of your site, e.g. /blog
 
+# PLUGIN 
+plugins:
+  - jekyll-sitemap
+
 # CONFIGURATION 
 markdown:         kramdown
 highlighter:      rouge
