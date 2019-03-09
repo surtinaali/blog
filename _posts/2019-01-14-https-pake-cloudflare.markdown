@@ -3,7 +3,7 @@ layout:     post
 title:      HTTPS Pake CloudFlare
 date:       2019-01-14 10:47:00 +0900
 categories: dokumentasi
-img_path:   assets/img/post/noimage.svg
+img_path:   assets/img/post/190114.svg
 ---
 
 HTTPS (Hypertext Transfer Protocol + SSL) merupakan protocol internet yang dikembangkan dari protocol sebelumnya HTTP. Protocol HTTPS dibuat dengan tujuan keamanan komunikasi antara server dan client, agar informasi yang saling bertukar antara client dan server tidak dapat terbaca oleh pihak ketiga jika tersadap. 
