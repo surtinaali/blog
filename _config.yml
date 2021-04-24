@@ -1,22 +1,22 @@
-# IDENTITI 
+# IDENTITI
 title:            SAID BAHTA
 
-# CONTACT 
+# CONTACT
 email:            saidbahta@yahoo.co.id
 github_username:  saidbahta
 fb:               https://web.facebook.com/bahtasaid
 blog:             https://saidbahta.wordpress.com
 github:           https://github.com/saidbahta
-description:      Membahas perspektif penulis tentang komputer dan web development 
-url:              "https://bahta.website" # the base hostname & protocol for your site, e.g. http://example.com
+description:      Membahas perspektif penulis tentang komputer dan web development
+url:              "https://saidbahta.github.io/blog/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:          "" # the subpath of your site, e.g. /blog
 
-# PLUGIN 
+# PLUGIN
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# CONFIGURATION 
+# CONFIGURATION
 markdown:         kramdown
 highlighter:      rouge
 
@@ -36,7 +36,7 @@ permalink:        pretty
 
 active:           livereload
 
-comments:         true 
+comments:         true
 
 collections:
   buku:
