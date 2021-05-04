@@ -51,7 +51,7 @@ Halo, nama saya
 {: .pt-4}
 Salam kenal, asal saya dari Timur Indonesia tepatnya di Kota Tidore Kepulauan, Provinsi Maluku Utara. Berbagi adalah hal yang harus dilakukan setiap orang, dengan alasan itulah saya meluangkan waktu membuat blog _(baca "catatan")_.
 
-Sebagai bahan pertimbangan buat anda dalam memastikan Apakah isi dari konten blog yang saya buat sesuai dengan anda, berikut latar belakang pendidikan, ketertarikan, pengalaman dan pekerjaan saya :  
+Sebagai bahan pertimbangan buat anda dalam memastikan Apakah isi dari konten blog yang saya buat sesuai dengan anda, berikut latar belakang pendidikan, ketertarikan, pengalaman dan pekerjaan saya :
 
 {: .pt-4}
 ##### PENDIDIKAN
@@ -62,7 +62,7 @@ Latar belakang pendidikan saya diawal mengenal komputer lebih banyak mempelajari
 Sekarang saya lebih banyak mempelajari Teknologi Web, Web Desain dan Pengembangan Sistem Informasi.
 
 {: .pt-3}
-##### PENGALAMAN 
+##### PENGALAMAN
 <table>
 	<tr>
 		<td valign="top" width="105px">MENGAJAR </td>
@@ -83,4 +83,4 @@ Sekarang saya lebih banyak mempelajari Teknologi Web, Web Desain dan Pengembanga
 
 {: .pt-4}
 ##### PEKERJAAN
-Saat ini bekerja sebagai tenaga pengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_. [Kordinat Google](https://goo.gl/maps/sYwGjmaArf22){:target="new"} 
+Saat ini bekerja sebagai tenaga pengajar di _Sekolah Tinggi Manajemen dan Ilmu Komputer Tidore Mandiri_. [Kordinat Google](https://goo.gl/maps/sYwGjmaArf22){:target="new"}

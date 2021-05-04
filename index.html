@@ -1,4 +1,4 @@
---- 
+---
 title: Artikel
 layout: page
 nav_order: 1
@@ -6,12 +6,12 @@ nav_order: 1
 <div class="card-columns text-center p-2">
     {% for post in site.posts %}
     <div class="card border-secondary rounded-1">
-        <img class="card-img-top rounded-0" src="{{post.img_path}}" alt="Card image cap">
+        <img class="card-img-top rounded-0" src="{{ post.img_path }}" alt="Card image cap">
         <div class="card-header border-bottom-0 py-2 bg-secondary text-light">
-            <h4><a href="{{ post.url }}" class="text-light" style="text-decoration:none">{{ post.title }}</a></h4>
+            <h4><a href="{{ post.url | relative_url}}" class="text-light" style="text-decoration:none">{{ post.title }}</a></h4>
         </div>
         <div class="card-body p-2 ">
-            <a href="{{ post.url }}" class="text-dark" style="text-decoration:none">{{ post.excerpt }}<b>. . .</b></a>
+            <a href="{{ post.url | relative_url}}" class="text-dark" style="text-decoration:none">{{ post.excerpt }}<b>. . .</b></a>
         </div>
     </div>
     {% endfor %}
