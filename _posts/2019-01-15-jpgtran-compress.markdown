@@ -2,7 +2,7 @@
 layout:     post
 title:      Memperkecil ukuran berkas gambar JPG menggunakan JPEGTRAN 
 date:       2019-01-15 15:02:00 +0900
-categories: dokumentasi
+categories: dokumentasi-web
 img_path:   assets/img/post/190115.svg
 ---
 

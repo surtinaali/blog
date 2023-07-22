@@ -2,7 +2,7 @@
 layout:     post
 title:      HTTPS Pake CloudFlare
 date:       2019-01-14 10:47:00 +0900
-categories: dokumentasi
+categories: dokumentasi-web
 img_path:   assets/img/post/190114.svg
 ---
 

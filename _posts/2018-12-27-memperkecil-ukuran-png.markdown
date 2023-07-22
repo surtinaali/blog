@@ -2,7 +2,7 @@
 layout:     post
 title:      Memperkecil ukuran berkas gambar PNG menggunakan PNGQUANT
 date:       2018-12-11 10:47:00 +0900
-categories: dokumentasi
+categories: dokumentasi-web
 img_path:   assets/img/post/190115b.svg
 ---
 

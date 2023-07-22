@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Merencanakan konten blog"
-date:   2018-08-08 10:47:00 +0900
+date:   2018-08-10 10:47:00 +0900
 categories: catatan 
 img_path: assets/img/post/180808.svg
 ---
