@@ -2,8 +2,8 @@
 layout: post
 title: "Perbaiki Masalah, Could not find a VM named 'GNS3 VM'"
 date: 2023-07-21 06:30:00 +0900
-categories: dokumentasi-gns3
-img_path: assets/img/post/noimage.svg
+categories: Dokumentasi-GNS3
+img_path: assets/img/post/230721.svg
 ---
 
 Baru pertama mencoba GNS3, seperti biasa harus diinstall terlebih dahulu, hanya saja ada masalah pada saat menghubungkan GNS3 dengan `GNS3 VM` yang jalan di VMware Player muncul pesan ini `"Could not find a VM named 'GNS3 VM', is it imported in VMware or VirtualBox?"`. 
