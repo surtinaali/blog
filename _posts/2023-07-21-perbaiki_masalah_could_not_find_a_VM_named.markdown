@@ -6,7 +6,9 @@ categories: dokumentasi-gns3
 img_path: assets/img/post/noimage.svg
 ---
 
-Baru pertama mencoba GNS3, seperti biasa harus diinstall terlebih dahulu, hanya saja ada masalah pada saat menghubungkan GNS3 dengan `GNS3 VM` yang jalan di VMware Player muncul pesan ini `"Could not find a VM named 'GNS3 VM', is it imported in VMware or VirtualBox?"`. Setelah beberapa kali dicoba, diketahui bahwa masalah tersebut muncul karena pada saat saya menginport `GNS3 VM`-nya saya merubah lokasi default tempat disimpannya File HDD dan Configurasi VMware untuk `GNS3 VM`, jika dibiarkan default tidak ada masalah sama sekali, namun saya perlu menggantinya karena lokasi default file `GNS3 VM` disimpan di OneDrive yang sangat terbatas kapasitasnya sehingga tidak cukup menampung file-file VMware. 
+Baru pertama mencoba GNS3, seperti biasa harus diinstall terlebih dahulu, hanya saja ada masalah pada saat menghubungkan GNS3 dengan `GNS3 VM` yang jalan di VMware Player muncul pesan ini `"Could not find a VM named 'GNS3 VM', is it imported in VMware or VirtualBox?"`. 
+
+Setelah beberapa kali dicoba, diketahui bahwa masalah tersebut muncul karena pada saat saya menginport `GNS3 VM`-nya saya merubah lokasi default tempat disimpannya File HDD dan Configurasi VMware untuk `GNS3 VM`, jika dibiarkan default tidak ada masalah sama sekali, namun saya perlu menggantinya karena lokasi default file `GNS3 VM` disimpan di OneDrive yang sangat terbatas kapasitasnya sehingga tidak cukup menampung file-file VMware. 
 
 Ternyata untuk bisa mengganti lokasi default dari `GNS3 VM` pada saat diimport kita juga perlu merubah file `preferences.ini` dengan menambahkan baris `prefvmx.defaultvmpath = "C:\VMs"` agar bisa terhubung dengan GNS3, `C:\VMs` diganti dengan lokasi atau folder `GNS3 VM` yang kita rubah pada saat import.
 
